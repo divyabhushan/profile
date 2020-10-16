@@ -1,0 +1,51 @@
+---
+id: ai-vs-hi
+title: Artificial Intelligence vs Human Intelligence - "Humans, not machines, will build the future"
+sidebar_label: AI vs Human Intelligence
+---
+
+Artificial Intelligence(AI), the science of making smarter and intelligent human-like machines, has sparked an inevitable debate of **Artificial Intelligence Vs Human Intelligence**. Indeed,  Machine Learning(ML) and Deep Learning(DL) algorithms are built to make machines learn on themselves and make decisions just like we humans do. In an attempt to make smarter machines, are we overlooking the impact of AI takeovers on future careers? Would Human Intelligence face an existential crisis? Vivek Kumar, Managing Director at Springboard, demystified the myth of machines replacing humans at the Machine Learning Developers Summit 2020 ([MLDS20](https://www.mlds.analyticsindiasummit.com/)). He highlighted the impact of **_humanness_** **_mentoring_** in building future technologies using AI/ML.
+
+## Artificial Intelligence Vs Human Intelligence (AI vs HI)
+
+The vision of making machines that can think and act like humans has evolved from movie-fiction to real-world facts. We have long attempted to inherit **_Intelligence_** in Machines to ease our work. There are bots, humanoids, robots, and digital humans that either outplay humans or coordinate with us in many ways. These [AI-driven applications](https://in.springboard.com/blog/top-10-applications-of-artificial-intelligence/) have higher **_speed of execution_**, have higher **_operational ability_** and **_accuracy_**, while also highly significant in **_tedious_** and **_monotonous_** jobs compared to humans.
+
+On the contrary, Human Intelligence relates to adaptive learning and experience. It does not always depend on pre-fed data like the ones required for AI. Human memory, its computing power, and the human body as an entity may seem insignificant compared to the machine’s hardware and software infrastructure. But, the _depth and layers_ present in our _brains_ are far more complex and sophisticated, that machines still cannot beat at least not in the near future! Here is a timeline predicting the whole idea of comparing both machine and human intelligence over a period of time.
+
+## AI Takeover: Can Machines Replace Humans?
+
+Coming to the debate of Artificial Intelligence Vs Human Intelligence, recent AI achievements imitate human intelligence more closely than before, however, machines are still way beyond what human brains are capable of doing. The ability of humans to apply the acquired **_knowledge_** with a sense of _logic, reasoning, understanding, learning and experience_ is what makes us stand out. With **_knowledge_** comes **_power_**, and with power comes great **_responsibility_**. Although Machines may be able to mimic human behaviour to a certain extent, their knowledge may fall apart when making **_rational decisions_** like us. AI-powered machines make decisions based on events and their association with them, however, they lack “common sense”. AI systems are clueless in the understanding of **“cause” and “effect”**. Meanwhile, real-world scenarios need a **holistic human approach**.
+
+Although AI has made our tasks easier in many ways and is only getting better. But there have been _AI epic failures_ that have raised questions about AI being a part of our lives:
+
+1. When an [Uber self-driving autonoumous car killed a pedestrian](https://www.ntsb.gov/investigations/AccidentReports/Reports/HWY18MH010-prelim.pdf) while under computer control, or
+2. Like the AI-led [IBM’s Watson Supercomputer recommended ‘unsafe and incorrect cancer treatments’](https://www.statnews.com/2018/07/25/ibm-watson-recommended-unsafe-incorrect-treatments/), or
+3. When [AI-enabled facial recognition tool became biased](https://www.bbc.com/news/business-48842750) towards coloured skin tones, which meant innocent people being wrongly identified as potential criminals.
+
+AI specialists today are focusing on ways to overcome such disasters in building the algorithms and improving AI’s ability. With accurate data, we soon might be able to improvise AI-technology that will coexist with our human ethics and efficiencies. We must incorporate natural human **intuitions**, **instincts** and **reflexes** in these AI machines to safeguard life-threatening situations. Also human **accuracy**, precision, timing, and quality **judgement** are vital factors that must be a part of AI input algorithms. Having that in mind, let’s get the part of how a human brain learns and adapts to these traits. Human Intelligence is powered by guided learning and mentoring, irreplaceable by AI
+
+**Deep learning** (DL), a subset of AI uses the concept of **Neural Networks** that is very similar to the human nervous system and brain. Our Intelligence lies in **adapted learning** and in knowing how to **apply the knowledge** in real-world scenarios. In DL we imitate the ability of **human brains to learn in different stages**. We solve complex problems by **breaking them down into levels of data**. Wonder how well you read long fictional book years back and still can recollect your favourite character and the famous quotes? 
+
+Now, what if you were given technical documentation to read just as long or maybe shorter? You might barely be able to finish that without getting _bored_ or _aimless_ and remember bits and pieces of it. See, that’s how our brains are wired, we need to be able to **correlate** with what we observe and learn. This dwells on the fact that we need a **personal connection** with our sensory organs to develop an interest in what we learn. In short, when we try to learn something, we channel all our sensory capabilities towards it including **emotions.**
+
+“Each one of us has a different emotional quotient and absorbs information in varying **contexts and styles**. The learning model that we adapt must include **humanness** and the **frequency that matches our mindset,”** Vivek mentioned. To be precise, **_AI cannot offer a real human touch to our learning journey._**
+
+**Learning** is not momentary; it is a gradual **practice** of absorbing information and processing it and eventually adds up to our _experience_. The **_learning experience_** differs in each being and is an invaluable asset in **_guiding_** and **_mentoring_** others. Mentor-guided learning not only helps you build skills faster but also enables career growth. A **mentor** brings in his/her real-time experience that makes your learning worthwhile in connecting with the real world. A coach guides you in your developing phase to help you understand things at a granular level, to synchronize and customize your learning behaviour at many human and emotional levels. 
+
+That’s how our education system shapes our thinking and with the same intention, online education has taken it a step further with **human-led courses**. Learning thought processes linked to human-led online education/ No Machines can Mentor like Humans
+
+We live in the world of the internet, with tremendous amounts of information flowing at the blink of an eye. In spite of the best content available to us online, we sometimes deviate from our goal.  
+Vivek pointed out that in e-learning the risk of doing away with human touch altogether has the following consequences.  
+1. It can lead to lack of motivation. As a solo contributor, we may give less attention to the challenge at hand and eventually end up not completing our learning journey. Having a mentor/human intervention brings **_humanness in learning_** preventing motivation issues in learners. 
+1. It can lead to a lack of **_accountability_**. We all learn better and remain committed to our goals when we have someone to look up to, get inspired by and most importantly be accountable to. Humans are social animals; learning or anything for that matter demands a community to share openly and learn from others.
+1. And finally, a **_mentor_** is the one who gets you onboard to meet your goals. A mentor leads the way and helps you prepare for the career path that lies ahead. And, that’s the reason machines can never fully replace humans. Humanness in edtech is just one of the examples where humans will win over machines.
+
+## Humans, not Machines, Will Build the Future: Artificial Intelligence-Human Intelligence Interface
+
+Going with the present data and our AI-advancements, language processing, vision, Image processing, and common sense is still a challenge to machines and require human interventions. Since AI is still in its development stage, the future lies in how well we humans govern AI apps so that they abide by human values and safety measures. After all, like Nick Burns, SQL Services Data Scientist explained: **“No matter how good your models are, they are only as good as your data…”**
+
+Prioritizing national security, the U.S. Department of Defence adopted a [series of ethical principles](https://www.defense.gov/Newsroom/Releases/Release/Article/2091996/dod-adopts-ethical-principles-for-artificial-intelligence/) for Artificial Intelligence. Likewise, AI has a whole new dimension of an endless pool of opportunities for humans to explore. We must focus on developing “Trustworthy AI” for a promising model for innovation and governance of AI, and look forward to embracing AI by upgrading our skills for AI-related software. 
+
+Give wings to your AI career dreams by enrolling in this 1:1 [mentoring-led AI/ML course](https://in.springboard.com/courses/ai-machine-learning-career-program-online/) that comes with a project-driven approach along with a job guarantee. You get the best online career-focused curriculum along with hands-on projects to design a Machine Learning/Deep Learning system, build a realistic, complete ML application and land you a position in the AI/ML domain.
+
+> Originally posted on [SpringBoard Blog - AI vs HI](https://in.springboard.com/blog/artificial-intelligence-vs-human-intelligence/?utm_source=Facebook&utm_medium=Social&utm_campaign=AI-Vs-Humans-Facebook)
