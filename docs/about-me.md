@@ -11,8 +11,6 @@ import "react-medium-image-zoom/dist/styles.css";
 
 [Download Resume](./assets/technical_writer_profile.pdf)
 
-[Tech Docs](tech-docs/data-science/ai-vs-hi)
-
 I am a <b>B.E graduate</b> with an aptitude to constantly learn and grow.
 I am passionate about writing clear, modular, rich content to explain technology in simpler ways.
 As a person, I am highly organized and self-motivated and believe in self-improvisation.

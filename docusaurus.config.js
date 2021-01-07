@@ -134,7 +134,9 @@ module.exports = {
     footer: {
       style: "dark",
       copyright: `
-      <p style="float:center">Copyright © ${new Date().getFullYear()} Divya Bhushan.</p>
+      <p style="float:center">
+      Copyright © ${new Date().getFullYear()} Divya Bhushan.
+      </p>
       `,
 //      <div style="float:right">
 //         <a href="https://github.com/divyabhushan" target="_blank"><img src="img/github.png"></a>

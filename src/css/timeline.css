@@ -13,15 +13,15 @@ html, body {
   }
 
   /* unvisited link */
-  section#timeline a:link {
+  section#timeline h2 a li a:link {
 	  color: white;
   }
   /* visited link */
-  section#timeline a:visited {
+  section#timeline a li a:visited {
 	  color: white;
   }
   /* mouse over link */
-  section#timeline a:hover {
+  section#timeline a li a:hover {
 	  color: white;
   }
   /* selected link */
