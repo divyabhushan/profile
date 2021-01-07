@@ -24,11 +24,18 @@ const users = [
   {
     title: "My Portfolio",
     description:
-      "",
+      "A synopsis of my Technical work",
     preview: "img/my-portfolio.png",
     website: "https://divyabhushan.github.io/my-portfolio/",
     source: "https://github.com/divyabhushan/my-portfolio.git",
   },
+  {
+    title: "Git Webinar",
+    description: "A collection of resources used in the Git Webinar held for the open Git community",
+    preview: "img/git-webinar.png",
+    website: "https://divyabhushan.github.io/git-webinar/",
+    source: "https://github.com/divyabhushan/git-webinar.git",
+  }
 ];
 
 const TITLE = "Websites by Divya";

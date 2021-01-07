@@ -6,8 +6,8 @@ module.exports = {
         "Technical Documentation": [
             {
                 type: "category",
-                label: "Docusaurus - Static site",
-                items: ["tech-docs/docusaurus/docusaurus"],
+                label: "Docusaurus",
+                items: ["tech-docs/docusaurus/robots","tech-docs/docusaurus/lunr-search"],
 
             },
             {
@@ -15,25 +15,32 @@ module.exports = {
                 label: "VisualBI Products",
                 items: [
                     "tech-docs/visualbi-prods/valq-prod-doc-project",
-                    "tech-docs/visualbi-prods/valq-new",
-                    "tech-docs/visualbi-prods/bihub-docs",
                 ]
             },
             {
                 type: "category",
                 label: "Git",
-                items: ["tech-docs/git/git-basics"
+                items: [
+                "tech-docs/git/git-tutorial",
+                "tech-docs/git/git-basics", 
+                "tech-docs/git/fix-mistakes",
+                "tech-docs/git/reflog",
+                "tech-docs/git/git-log",
+                "tech-docs/git/git-bisect",
                 ]
             },
+            
+           
             {
                 type: "category",
                 label: "DevOps",
                 items: [
-                    "tech-docs/devops/dockers-vs-vms",
-                    "tech-docs/devops/become-devops-eng",
-                    "tech-docs/devops/devops-interview-qs",
+                   "tech-docs/devops/dockers-vs-vms",
+                    "tech-docs/devops/devops-roadmap",
+ /*                   "tech-docs/devops/devops-interview-qs", */
                 ]
             },
+            /*
             {
                 type: "category",
                 label: "Data Science",
@@ -43,7 +50,7 @@ module.exports = {
                     "tech-docs/data-science/sd-ds",
                     "tech-docs/data-science/ai-vs-hi",
                 ]
-            },
+            }, */
         ],
     },
 };
