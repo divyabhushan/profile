@@ -24,6 +24,7 @@ module.exports = {
   favicon: "img/favicon.ico",
   organizationName: "divyabhushan", // Usually your GitHub org/user name.
   projectName: "my-portfolio", // Usually your repo name.
+  plugins: ['@docusaurus/plugin-google-analytics'],  
   themeConfig: {
     googleAnalytics: {
       trackingID: 'UA-139623144-1',
