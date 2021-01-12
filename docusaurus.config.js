@@ -77,6 +77,13 @@ module.exports = {
             },
             {
               type: 'doc',
+              docId: 'docs/tech-docs/git/git-branch-strategy',
+              label: 'Git Branch Strategy',
+              activeSidebarClassName: 'navbar__link--active',
+              to: 'docs/tech-docs/git/git-branch-strategy',
+            },
+            {
+              type: 'doc',
               docId: 'docs/tech-docs/git/git-basics',
               label: 'Git Basics',
               activeSidebarClassName: 'navbar__link--active',

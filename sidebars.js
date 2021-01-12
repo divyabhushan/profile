@@ -23,6 +23,7 @@ module.exports = {
                 items: [
                 "tech-docs/git/git-tutorial",
                 "tech-docs/git/git-basics", 
+                "tech-docs/git/git-branch-strategy",
                 "tech-docs/git/fix-mistakes",
                 "tech-docs/git/reflog",
                 "tech-docs/git/git-log",
