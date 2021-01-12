@@ -25,6 +25,11 @@ module.exports = {
   organizationName: "divyabhushan", // Usually your GitHub org/user name.
   projectName: "my-portfolio", // Usually your repo name.
   themeConfig: {
+    googleAnalytics: {
+      trackingID: 'UA-139623144-1',
+      // Optional fields.
+      anonymizeIP: true, // Should IPs be anonymized?
+    },
     divyaOnInternet,
     navbar: {
       title: "Divya",
