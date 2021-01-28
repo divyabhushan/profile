@@ -22,32 +22,14 @@ As a person, I am highly organized and self-motivated and believe in self-improv
 
 ## Skills
 
-<div class="skills">
-  <span id="left">Programming</span>
-  <span id="right">C, Python basics, Java basics (OOP), Shell Scripting</span>
-  
-  <span id="left">Operating System</span>
-  <span id="right">Linux, Unix, Windows</span>
-  
-  <span id="left">Database</span>
-  <span id="right">Oracle, IBM DB2, MySQL</span>
-  
-  <span id="left">Software Methodology</span>
-  <span id="right">SCRUM, Agile, DevOps, SDLC, DDLC</span>
-  
-  <span id="left">Virtualization</span>
-  <span id="right">Oracle VM Box</span>
-  
-  <span id="left">Containerization</span>
-  <span id="right">Dockers, Kubernetes basics</span>
-  
-  <span id="left">VCS</span>
-  <span id="right">Git, GitHub, GitLab, BitBucket, Source Tree</span>
-  
-  <span id="left">Static site generator</span>
-  <span id="right">Jekyll, Hugo, mkDocs, gh-pages, Docusaurus2</span>
-  
-  <span id="left">Tools/editors</span>
-  <span id="right">HTML5, CSS, Markdown, Google Docs, Visual Studio Code, WordPress, SQL Developer, Eclipse EE, Sublime Text, Edit plus, MS Office, vim.
-  </span>
-</div>
+| Category | Types |
+| --- | --- |
+| Programming | C, Python basics, Java basics (OOP), Shell Scripting |
+| Operating System | Linux, Unix, Windows |
+| Database |  Oracle, IBM DB2, MySQL |
+| Software Methodology | SCRUM, Agile, DevOps, SDLC, DDLC |
+| Virtualization | Oracle VM Box |
+| Containerization | Dockers, Kubernetes basics |
+| VCS | Git, GitHub, GitLab, BitBucket, Source Tree |
+| Static Site generator | Jekyll, Hugo, mkDocs, gh-pages, Docusaurus2 |
+| Tools/Editors | HTML5, CSS, Markdown, Google Docs, Visual Studio Code, WordPress, SQL Developer, Eclipse EE, Sublime Text, Edit plus, MS Office, vim. | 

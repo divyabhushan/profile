@@ -57,33 +57,8 @@ footer .text--center {
   text-align: center;
 }
 
-.skills {
-  display: block;
-  margin: 0px 5px;
-  padding: 0px;
-  font-style: inherit;
-  line-height: 35px;
-}
-
-.skills #left {
-  float: left;
+#skill {
   font-size: 104%;
   font-weight: bold;
   color: rgb(31, 165, 136);
-}
-
-.skills #right {
-  float: right;
-  position: relative;
-  width: 538px;
-  margin-right: 5%;
-  right: -60px;
-  text-align: left;  
-}
-
-.custom-span {
-  background-color: rgb(31, 165, 136);
-  border-radius: 6px;
-  padding: 0.3em;
-  color: white;
 }
