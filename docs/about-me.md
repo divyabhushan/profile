@@ -22,14 +22,14 @@ As a person, I am highly organized and self-motivated and believe in self-improv
 
 ## Skills
 
-| Category | Types |
-| --- | --- |
-| Programming | C, Python basics, Java basics (OOP), Shell Scripting |
-| Operating System | Linux, Unix, Windows |
-| Database |  Oracle, IBM DB2, MySQL |
-| Software Methodology | SCRUM, Agile, DevOps, SDLC, DDLC |
-| Virtualization | Oracle VM Box |
-| Containerization | Dockers, Kubernetes basics |
-| VCS | Git, GitHub, GitLab, BitBucket, Source Tree |
-| Static Site generator | Jekyll, Hugo, mkDocs, gh-pages, Docusaurus2 |
-| Tools/Editors | HTML5, CSS, Markdown, Google Docs, Visual Studio Code, WordPress, SQL Developer, Eclipse EE, Sublime Text, Edit plus, MS Office, vim. | 
+| Category              | Types                                                                                                                                 |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| Programming           | C, Python basics, Java basics (OOP), Shell Scripting                                                                                  |
+| Operating System      | Linux, Unix, Windows                                                                                                                  |
+| Database              | Oracle, IBM DB2, MySQL                                                                                                                |
+| Software Methodology  | SCRUM, Agile, DevOps, SDLC, DDLC                                                                                                      |
+| Virtualization        | Oracle VM Box                                                                                                                         |
+| Containerization      | Dockers, Kubernetes basics                                                                                                            |
+| VCS                   | Git, GitHub, GitLab, BitBucket, Source Tree                                                                                           |
+| Static Site generator | Jekyll, Hugo, mkDocs, gh-pages, Docusaurus2                                                                                           |
+| Tools/Editors         | HTML5, CSS, Markdown, Google Docs, Visual Studio Code, WordPress, SQL Developer, Eclipse EE, Sublime Text, Edit plus, MS Office, vim. |

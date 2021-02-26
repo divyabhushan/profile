@@ -35,10 +35,16 @@ const users = [
     preview: "img/git-webinar.png",
     website: "https://divyabhushan.github.io/git-webinar/",
     source: "https://github.com/divyabhushan/git-webinar.git",
+  },
+  {
+    title: "Linux File Permissions Calculator",
+    description: "Generate binary and symbolic values as parameters for the chmod command.",
+    preview: "img/chmod-cal.png",
+    website: "https://divyabhushan.github.io/my-app/"
   }
 ];
 
-const TITLE = "Websites by Divya";
+const TITLE = "My Portfolios";
 
 function Showcase() {
   return (
