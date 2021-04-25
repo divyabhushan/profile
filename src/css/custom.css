@@ -7,6 +7,8 @@
 
 /* You can override the default Infima variables here. */
 
+link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+
 :root {
   --ifm-color-primary: #eb348f;
   --ifm-color-primary-dark: rgb(33, 90, 175);

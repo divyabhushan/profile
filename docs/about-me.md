@@ -9,7 +9,7 @@ import Link from '@docusaurus/Link';
 import Zoom from "react-medium-image-zoom";
 import "react-medium-image-zoom/dist/styles.css";
 
-[Download Resume](./assets/technical_writer_profile.pdf)
+[Download Resume <img width="25" src={useBaseUrl('img/download.svg')}/>](./assets/technical_writer_profile.pdf) 
 
 I am a <b>B.E graduate</b> with an aptitude to constantly learn and grow.
 I am passionate about writing clear, modular, rich content to explain technology in simpler ways.

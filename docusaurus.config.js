@@ -17,7 +17,8 @@ const divyaOnInternet = {
 module.exports = {
   title: "Divya Bhushan - Technical Writer",
   tagline:
-  "I am a Technical Writer with a passion for interpreting the technology in a simpler way",
+    "If it is not documentated, it doesn't exists !!!",
+  
   url: "https://github.com/divyabhushan/my-portfolio",
   baseUrl: '/my-portfolio/',
   onBrokenLinks: "throw",
