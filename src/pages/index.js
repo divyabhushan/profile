@@ -6,60 +6,34 @@ import Layout from "@theme/Layout";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
+import Cards from "../components/Cards";
 
 const divyaImage = {
   imageUrl: "img/divya.jpg",
 };
 
-function intersperse(items, separator) {
-  if (items.length < 1) {
-    return items;
-  }
-
-  const arr = [items[0]];
-  for (let i = 1; i < items.length; i++) {
-    arr.push(separator);
-    arr.push(items[i]);
-  }
-
-  return arr;
-}
-
 const Home = () => {
   const context = useDocusaurusContext();
   const { siteConfig = {} } = context;
-  const { divyaOnInternet } = siteConfig.themeConfig;
   const divyaPic = useBaseUrl(divyaImage.imageUrl);
-
+  
   return (
     <Layout title={`${siteConfig.title} | Personal Website`}>
       <header className={styles.header}>
         <div className={styles.features}>
           <img
-            src={divyaPic}
+            src="https://media-exp1.licdn.com/dms/image/C4D03AQHedoWkAeRaJw/profile-displayphoto-shrink_400_400/0/1607250393657?e=1630540800&v=beta&t=d-c9USN4BTRJk7nxO_baTG8qPCpnVgvldyufHnDVNXE"
             alt="logo"
             style={{
               borderRadius: "100%",
-              maxWidth: 270,
+              maxWidth: 200,
             }}
           />
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className={styles.tagline}>{siteConfig.tagline}</p>
-          <div className={styles.internetProfiles}>
-            {intersperse(
-              Object.keys(divyaOnInternet).map((key) => {
-                const item = divyaOnInternet[key];
-                return (
-                  <a href={item.href} rel="noreferrer noopener" target="_blank">
-                    {item.label}
-                  </a>
-                );
-              }),
-              <span className="padding-horiz--md">|</span>
-            )}
-          </div>
         </div>
       </header>
+      <div className={styles.header}><Cards /></div>
     </Layout>
   );
 };

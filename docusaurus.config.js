@@ -1,24 +1,6 @@
-const divyaOnInternet = {
-  github: {
-    label: "GitHub",
-    href: "https://github.com/divyabhushan",
-    img: "img/linkedin.png",
-  },
-  linkedin: {
-    label: "LinkedIn",
-    href: "https://www.linkedin.com/in/divyabhushan/",
-  },
-  medium: {
-    label: "Medium",
-    href: "https://divya-bhushan.medium.com/",
-  },
-};
-
 module.exports = {
-  title: "Divya Bhushan - Technical Writer",
-  tagline:
-    "If it is not documentated, it doesn't exists !!!",
-  
+  title: "Divya Bhushan - Senior Technical Writer",
+  tagline: "Software/Product Documentation",  
   url: "https://github.com/divyabhushan/my-portfolio",
   baseUrl: '/my-portfolio/',
   onBrokenLinks: "throw",
@@ -32,9 +14,8 @@ module.exports = {
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
     },
-    divyaOnInternet,
     navbar: {
-      title: "Divya",
+      title: "Home",
       items: [
         {
           to: "docs/about-me",
@@ -189,15 +170,17 @@ module.exports = {
     footer: {
       style: "dark",
       copyright: `
-      <p style="float:center">
+      <div class="footer">
+      <p style="float:left">
       Copyright © ${new Date().getFullYear()} Divya Bhushan.
       </p>
+      <p style="float:right">
+      <a href="https://www.linkedin.com/in/divyabhushan/" target="_blank" style="padding-left:10px"/><img src="https://github.com/divyabhushan/my-portfolio/blob/gh-pages/img/linkedin.png?raw=true" width="40"/></a>
+      <a href="https://divya-bhushan.medium.com/" target="_blank" style="padding-left:10px"><img src="https://github.com/divyabhushan/my-portfolio/blob/gh-pages/img/medium.png?raw=true" width="40"></a>
+      <p>
+      </div>
       `,
-//      <div style="float:right">
-//         <a href="https://github.com/divyabhushan" target="_blank"><img src="img/github.png"></a>
-//         <a href="https://www.linkedin.com/in/divyabhushan/" target="_blank"><img src="img/linkedin.png"></a>
-//         <a href="https://divya-bhushan.medium.com/" target="_blank"><img src="img/medium.png"></a>
-//         </div>
+//         <a href="https://github.com/divyabhushan" target="_blank"><img src="https://github.com/"></a>
     },
   },
   presets: [
