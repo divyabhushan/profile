@@ -7,31 +7,23 @@ import GenerateImgURL from "./utils";
 const users = [
   // Please add in alphabetical order of title.
   {
-    title: "ValQ - Modern Digital Planning (Documentation)",
+    title: "ValQ Documentation",
+    subtitle: 'Modern Digital Planning Power BI Visual.',
     description:
       "Model, Plan, Simulate and analyze your business data in the most intuitive and visual way.",
     preview: "img/valq.png",
     website: "https://docs.valq.com/",
   },
   {
-    title: "BIHub - One-stop BI Reporting Search Engine (Installation/Administration/User guide)",
-    description:
-    "One-Stop Solution to all your BI content supporting On-prem, Cloud, Self-Service BI and Modern Data Analytics deployment.",
+    title: "BIHub Documentation",
+    subtitle: 'One-stop BI Reporting Search Engine (Installation/Administration/User guide)',
+    description: "Supports On-prem, Cloud, Self-Service BI and Modern Data Analytics deployment.",
     preview: "img/bihub.png",
     website: "https://divyabhushan.github.io/VV-Docs/",
-    source: "https://github.com/divyabhushan/VV-Docs",
-  },
-  {
-    title: "My Portfolio",
-    description:
-      "A synopsis of my Technical work",
-    preview: "img/my-portfolio.png",
-    website: "https://divyabhushan.github.io/my-portfolio/",
-    source: "https://github.com/divyabhushan/my-portfolio.git",
   },
   {
     title: "Git Webinar",
-    description: "A collection of resources used in the Git Webinar held for the open Git community",
+    description: "A collection of resources used in the Git Webinar held for the open Git community.",
     preview: "img/git-webinar.png",
     website: "https://divyabhushan.github.io/git-webinar/",
     source: "https://github.com/divyabhushan/git-webinar.git",
@@ -44,7 +36,7 @@ const users = [
   }
 ];
 
-const TITLE = "My Portfolios";
+const TITLE = "My Documentation";
 
 function Showcase() {
   return (
@@ -64,6 +56,7 @@ function Showcase() {
                   <div className="avatar">
                     <div className="avatar__intro margin-left--none">
                       <h4 className="avatar__name">{user.title}</h4>
+                      <i>{user.subtitle}</i>
                       <small className="avatar__subtitle">
                         {user.description}
                       </small>

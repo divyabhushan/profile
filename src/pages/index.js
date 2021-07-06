@@ -8,14 +8,9 @@ import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
 import Cards from "../components/Cards";
 
-const divyaImage = {
-  imageUrl: "img/divya.jpg",
-};
-
 const Home = () => {
   const context = useDocusaurusContext();
   const { siteConfig = {} } = context;
-  const divyaPic = useBaseUrl(divyaImage.imageUrl);
   
   return (
     <Layout title={`${siteConfig.title} | Personal Website`}>
@@ -26,7 +21,7 @@ const Home = () => {
             alt="logo"
             style={{
               borderRadius: "100%",
-              maxWidth: 200,
+              maxWidth: 120,
             }}
           />
           <h1 className="hero__title">{siteConfig.title}</h1>
