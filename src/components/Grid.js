@@ -16,7 +16,7 @@ export const Grid = (props) => {
                 <Col>
                     <p>{doc}</p><p>{method}</p><p>{benefit_method}</p>
                     <p>
-                        <a href={useBaseUrl('assets/TechnicalWriter@Lumel.pdf')} download>Download Resume <img width="20" src={useBaseUrl('img/download.svg')}></img></a>
+                        <a href={useBaseUrl('assets/DivyaBhushan-TechnicalWriter.pdf')} download>Download Resume <img width="20" src={useBaseUrl('img/download.svg')}></img></a>
                     </p>
                 </Col>
                 <Col><Skills /></Col>
