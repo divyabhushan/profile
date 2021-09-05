@@ -37,7 +37,7 @@ module.exports = {
       copyright: `
       <div class="footer">
       <p style="float:left">
-      Built with Docusaurs and powered by JSX and React!!!
+      Built with Docusaurus and powered by JSX and React!!!
       </p>
       <p style="float:right">
       <a href="https://www.linkedin.com/in/divyabhushan/" target="_blank" style="padding-left:10px"/><img src="https://github.com/divyabhushan/my-portfolio/blob/gh-pages/img/linkedin.png?raw=true" width="40"/></a>

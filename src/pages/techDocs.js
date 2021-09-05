@@ -33,6 +33,13 @@ const users = [
     description: "Generate binary and symbolic values as parameters for the chmod command.",
     preview: "img/chmod-cal.png",
     website: "https://divyabhushan.github.io/my-app/"
+  },
+  {
+    title: "Countries List using Bootstrap Accordion",
+    description: "This awesome page generates a list of collapsible components while looping through each data value using React JS.",
+    preview: "img/countries-list.png",
+    website: "https://divyabhushan.github.io/my-portfolio/docs/countries",
+    source: "https://divya-bhushan.medium.com/collapsible-list-with-bootstrap-accordion-29e457f4ac2a"
   }
 ];
 

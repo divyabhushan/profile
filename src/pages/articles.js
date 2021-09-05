@@ -11,6 +11,14 @@ import { Button } from "react-bootstrap";
 const Articles = () => {
   const data = [
     {
+      category: 'React JSX',
+      topics: [{
+        title: "Collapsible list with Bootstrap Accordion",
+        description: "I used React JSX to reduce the number of times I had to manually repeat the code to create a new Card for each country.",
+        website: "https://divya-bhushan.medium.com/collapsible-list-with-bootstrap-accordion-29e457f4ac2a"
+      },],
+    },
+    {
       category: 'Docusaurus',
       topics: [
         {

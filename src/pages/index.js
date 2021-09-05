@@ -17,7 +17,7 @@ const Home = () => {
       <header className={styles.header}>
         <div className={styles.features}>
           <img
-            src="https://media-exp1.licdn.com/dms/image/C4D03AQHedoWkAeRaJw/profile-displayphoto-shrink_400_400/0/1607250393657?e=1630540800&v=beta&t=d-c9USN4BTRJk7nxO_baTG8qPCpnVgvldyufHnDVNXE"
+            src="https://media-exp1.licdn.com/dms/image/C4D03AQHedoWkAeRaJw/profile-displayphoto-shrink_800_800/0/1607250393657?e=1636588800&v=beta&t=-l2MMCEmSaV6OeB_DEzsx3pHpUXhg2fUHfmXD-0V7ME"
             alt="logo"
             style={{
               borderRadius: "100%",

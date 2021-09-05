@@ -8,7 +8,7 @@ const data = [
         "date":"Jul, 01 2020 - Present",
         "name":"Lumel",
         "title":"Software Documentation - Technical Writer",
-        "desc":"\n* Software Product documentation for Lumel products.\n* Experience documenting Hardware/Software PC and Laptop issues, Web Service technologies, SaaS applications.\n* ValQ visual and  ValQ on-premise cloud service installation/user guide.\n* BI Hub:  one-stop solution for all BI reports from the various platforms - Installation/Administration/User guide.\n* Inforiver: A Low code/No code Enterprise Analytics Suite - Product documentation.\n* Follow standard Engineering Principles and Practices.\n* Docs As Code approach to design, develop (VS Code), version control (GitHub), re-use (React), proof-read, deploy, and deliver (publish) the docs.\n",
+        "desc":"\n* Generate software docs that are directly embedded in the Lumel products.\n* Experience documenting Hardware/Software PC and Laptop issues, Web Service technologies, SaaS applications.\n* ValQ visual and  ValQ on-premise cloud service installation/user guide.\n* BI Hub:  one-stop solution for all BI reports from the various platforms - Installation/Administration/User guide.\n* Inforiver: A Low code/No code Enterprise Analytics Suite - Product documentation.\n* Follow standard Engineering Principles and Practices.\n* Docs As Code approach to design, develop (VS Code), version control (GitHub), re-use (React), proof-read, deploy, and deliver (publish) the docs.\n",
         "skills":"Product/Software documentation, Agile, Product guides, SDLC, DDLC, Docusaurus2, MDX, JSX, React."
      },
      {
