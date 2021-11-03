@@ -1,6 +1,6 @@
 module.exports = {
-  title: "Divya Bhushan - Sr.Technical Writer",
-  tagline: "Software/Product Documentation",  
+  title: "Divya Bhushan",
+  tagline: "Technical Writer @ Hasura",  
   url: "https://github.com/divyabhushan/my-portfolio",
   baseUrl: '/my-portfolio/',
   onBrokenLinks: "throw",

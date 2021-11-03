@@ -4,9 +4,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 export const Skills = () => {
     const dataset = [
-        { title: 'Programming', name: 'React, JSX, C, Python basics, Java basics (OOP), Shell Scripting' },
+        { title: 'Programming', name: 'GraphQL, React, JSX, C, Python basics, Java basics (OOP), Shell Scripting' },
         { title: 'Operating System', name: 'Linux, Unix, Windows' },
-        { title: 'Database', name: 'Oracle, IBM DB2, MySQL' },
+        { title: 'Database', name: 'Oracle, IBM DB2, MySQL, MS SQL Server' },
         { title: 'Software Methodology', name: 'SCRUM, Agile, DevOps, SDLC, DDLC' },
         { title: 'Virtualization', name: 'Oracle VM Box' },
         { title: 'Containerization', name: 'Dockers, Kubernetes basics' },

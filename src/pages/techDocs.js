@@ -7,6 +7,13 @@ import GenerateImgURL from "./utils";
 const users = [
   // Please add in alphabetical order of title.
   {
+    title: "MS SQL Server",
+    subtitle: "Learn the key concepts of MS SQL Server and set it up for app development.",
+    description: "MS SQL Server is a RDBMS developed by Microsoft. T-SQL is used to manage the data in MS SQL database.",
+    preview: "img/mssql-server.png",
+    website: "https://hasura.io/learn/database/microsoft-sql-server/introduction/",
+  },
+  {
     title: "ValQ Documentation",
     subtitle: 'Modern Digital Planning Power BI Visual.',
     description:
