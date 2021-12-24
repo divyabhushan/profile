@@ -7,6 +7,13 @@ import GenerateImgURL from "./utils";
 const users = [
   // Please add in alphabetical order of title.
   {
+    title: "Hasura GraphQL Engine Documentation",
+    subtitle: "",
+    descriptions:"",
+    preview: "img/hasura-docs.png",
+    website: "https://docs.hasura.io/"
+  },
+  {
     title: "MS SQL Server",
     subtitle: "Learn the key concepts of MS SQL Server and set it up for app development.",
     description: "MS SQL Server is a RDBMS developed by Microsoft. T-SQL is used to manage the data in MS SQL database.",

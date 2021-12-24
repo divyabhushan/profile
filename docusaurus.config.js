@@ -1,13 +1,13 @@
 module.exports = {
   title: "Divya Bhushan",
-  tagline: "Technical Writer @ Hasura",  
+  tagline: "Technical Writer @ Hasura",
   url: "https://github.com/divyabhushan/my-portfolio",
   baseUrl: '/my-portfolio/',
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
   organizationName: "divyabhushan", // Usually your GitHub org/user name.
   projectName: "my-portfolio", // Usually your repo name.
-  plugins: [['@docusaurus/plugin-google-analytics',{id:'my-portal'}]],  
+  plugins: [ [ '@docusaurus/plugin-google-analytics', { id: 'my-portal' } ] ],
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
@@ -27,7 +27,7 @@ module.exports = {
           label: "Synopsis",
           position: "left",
         },
-        { to: "history", label: "Job History", position: "left" },        
+        { to: "history", label: "Job History", position: "left" },
         { to: "techDocs", label: "Technical Documentation", position: "left" },
         { to: "articles", label: "My Articles", position: "right" },
       ],
@@ -46,7 +46,7 @@ module.exports = {
       <p>
       </div>
       `,
-//         <a href="https://github.com/divyabhushan" target="_blank"><img src="https://github.com/"></a>
+      //         <a href="https://github.com/divyabhushan" target="_blank"><img src="https://github.com/"></a>
     },
   },
   presets: [

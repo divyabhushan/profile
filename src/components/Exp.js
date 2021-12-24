@@ -1,15 +1,66 @@
 import React from "react";
-import styles from "../pages/styles.module.css";
-import 'bootstrap/dist/css/bootstrap.min.css';
-import { Skills } from "./Skills.js";
-import { Card, CardDeck, CardGroup } from 'react-bootstrap';
-import { history } from "../pages/history.js";
-import { Exp } from "./Exp.js";
+import styles from '../css/bootstrap.css';
 
-export const TITLE = "title";
-
-export const CV = (props) => {
-    const synopsis = "Strong IT background in Databases, Linux/Unix, Programming, and Version Control. Knowledge of Cloud, Virtualizations, Dockers, SDLC, DDLC, OOPS, HTML/CSS, JSX, MDX, and React.\n\nDevelop clear, modular, rich content to explain technology in simpler ways. Implement Agile methodology and software development practices to treat my docs-as-code and re-use it.\n\nExperienced Database Admin, Linux/Unix Admin, Programmer, and Technical Trainer in major IT companies.";
+export const Exp = () => {
+    const data = [
+        {
+            "date": "Oct 2021 - Present",
+            "name": "Hasura",
+            "link": "https://hasura.io",
+            "title": "Technical Writer",
+            "desc": "API documentation to build efficient APIs over GraphqQL using Hasura."
+        },
+        {
+            "date": "Jul 2020 - Sep 2021",
+            "name": "Lumel",
+            "link": "https://lumel.com/",
+            "title": "Technical Writer",
+            "desc": "\n* Product documentation on Lumel products.\n* ValQ  on-premise cloud service installation/user guide.\n* BIHub - Installation/Administration/User guide.\n* Inforiver - Product documentation."
+        },
+        {
+            "date": "Sep 2013 - Jun 2020",
+            "name": "Freelancing",
+            "title": "Technical Writer/Trainer",
+            "desc": "\n* Topic-based documentation on various products & technologies.\n* Trained corporate employees on various technological skills via blended means.\n* Plan and design bespoke training courses, structures, materials, durations, lab setups, hands-on lab activities, and quizzes.\n* Clients: Oracle, Happiest Minds, Wipro, SLK Software , L & T Infotech , Misys, HP, Schneider Electric, Oxford Engineering College, Nuware Systems Institute of Technology, B.G.S Institute of Technology, Apostrofhy, Sony, and Mindtree Ltd.\n",
+            "skills": "Technical Documentation, DDLC, HTML5, CSS, Markdown, Visual Studio Code, Mermaid, Jekyll, mkDocs, Hugo, Vim, Git, DevOps, Docker, Kubernetes, process flow diagrams."
+        },
+        {
+            "date": "Aug 2009 - Sep 2013",
+            "name": "Mindtree",
+            "link": "https://www.mindtree.com/",
+            "title": "Technical Specialist",
+            "project": "SITA Airlines billing and invoicing",
+            "project_link": "https://www.sita.aero/",
+            "desc": "\n* Scheduled and monitored automated tasks of file processing, log analysis, and daily cron jobs in Redwood Scheduler.\n* Process improvement, automated test cases ( pre and post ) using Shell/Perl scripts and embedded PL-SQL.\n* Performed Root Cause Analysis and troubleshooting of Production errors.\n* Linux server administrative tasks.\n* ER diagrams.\n* Billing process flow and resolution documentation."
+        },
+        {
+            "date": "Sep 2008 - Jan 2009",
+            "name": "HCI",
+            "link": "https://www.hci.org/",
+            "title": "Linux/DB admin",
+            "project": "HCI Official website Migration",
+            "project_link": "https://www.hci.org/",
+            "desc": "\n* Configured new production server on Amazon EC2 cloud and deployed company’s official website’s content.\n* Adapted an Agile development approach staying in sync with the project progress tracked by daily SCRUM meetings.\n* Installed and configured LAMP web server on Amazon Linux.\n* MySQL database management and scheduled daily backups.\n* Linux server administration, and automation with shell scripts.\n",
+            "skills": "Linux, Unix, Oracle Database, SQL/PL-SQL, Shell scripting, SCRUM, SDLC, Administrator guides, release notes/User guides."
+        },
+        {
+            "date": "Aug 2007 - Dec 2007",
+            "name": "HCL",
+            "title": "Programmer",
+            "link": "https://www.hcltech.com",
+            "project": "ConfoNet: Computerization and Computer Networking of Consumer Forums in Country\n",
+            "project_link": "https://confonet.nic.in/",
+            "desc": "* Administered Company\'s application migration in IBM DB2.\n* Linux Server maintenance & automation tasks.\n* Software documentation.\n",
+            "skills": "Linux, Unix, IBM DB2, SQL, Shell scripting, User manuals, how-to-guides."
+        },
+        {
+            "date": "Jun 2005 - Dec 2006",
+            "name": "Dell",
+            "link": "www.dell.com",
+            "title": "Technical Associate",
+            "desc": "* Resolved Hardware/Software issues and contributed technical articles for internal wiki knowledge pool.\n* Administered Employee database (CRUD operations) in Oracle.\n",
+        }
+    ];
 
     const experience = [
         {
@@ -63,42 +114,26 @@ export const CV = (props) => {
     ];
 
     return (
-        <div className="container">
-            <div className="row">
-                <div className="col">
-                    <h1>Divya Bhushan</h1>
-                    <h3>Technical Writer@<a href="https://hasura.io">Hasura</a></h3>
-                </div>
-                <div class="col">
-                    <p>Email: divya_bhushan@hotmail.com
-                        <p>
-                            <p>Portfolio: <a href="https://divyabhushan.github.io/my-portfolio/">My Portfolio</a></p>
-                        </p>
-                        <a id={styles.img} href="https://www.linkedin.com/in/divyabhushan/" target="_blank"><img width="30" src="https://github.com/divyabhushan/my-portfolio/blob/gh-pages/img/linkedin.png?raw=true"></img></a>
-                        <a id={styles.img} href="https://github.com/divyabhushan" target="_blank"><img width="30" src="https://github.com/divyabhushan/my-portfolio/blob/gh-pages/img/github.png?raw=true"></img></a>
-                        <a id={styles.img} href="https://divya-bhushan.medium.com/" target="_blank"><img width="30" src="https://github.com/divyabhushan/my-portfolio/blob/gh-pages/img/medium.png?raw=true"></img></a>
-                    </p>
-                </div>
-            </div>
-            <div className="row">
-                <div><br></br><br></br><br></br></div>
-            </div>
-            <section>
-                <div className="row" id={styles.nextrow}>
-                    <div className="col">
-                        <h4>Synopsis</h4>
-                        <p style={{ whiteSpace: 'break-spaces' }}>{synopsis}</p>
-                    </div>
-                    <div class="col col-md-auto">
-                        <h4>Skills</h4>
-                        <Skills />
+        <div>
+            <div>
+                <div>
+                    <div class="row">
+                        <div>
+                            {data.map((each) => (
+                                <ul className="timeline">
+                                    <li>
+                                        {each.title} @ <a target="_blank" href={each.link}>{each.name}</a>
+                                        <a href="#" class="float-right">{each.date}</a>
+                                        <p style={{ whiteSpace: 'break-spaces' }}>{each.desc}</p>
+                                    </li>
+                                </ul>
+                            ))}
+                        </div>
                     </div>
                 </div>
-            </section>
-            <h4>Professional History</h4>
-            <Exp />
+            </div>
         </div>
     );
-};
+}
 
-export default CV;
+export default Exp;

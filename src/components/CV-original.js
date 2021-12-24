@@ -3,10 +3,6 @@ import styles from "../pages/styles.module.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Skills } from "./Skills.js";
 import { Card, CardDeck, CardGroup } from 'react-bootstrap';
-import { history } from "../pages/history.js";
-import { Exp } from "./Exp.js";
-
-export const TITLE = "title";
 
 export const CV = (props) => {
     const synopsis = "Strong IT background in Databases, Linux/Unix, Programming, and Version Control. Knowledge of Cloud, Virtualizations, Dockers, SDLC, DDLC, OOPS, HTML/CSS, JSX, MDX, and React.\n\nDevelop clear, modular, rich content to explain technology in simpler ways. Implement Agile methodology and software development practices to treat my docs-as-code and re-use it.\n\nExperienced Database Admin, Linux/Unix Admin, Programmer, and Technical Trainer in major IT companies.";
@@ -96,7 +92,25 @@ export const CV = (props) => {
                 </div>
             </section>
             <h4>Professional History</h4>
-            <Exp />
+            <div className="row">
+                <div className="col">
+                    {experience.map((values) => (
+                        <div>
+                            <CardDeck>
+                                <Card className={styles.history}>
+                                    <Card.Title><i id={styles.title}>{values.title} @ {values.name}</i><a id={styles.date}>{values.date}</a></Card.Title>
+                                    <Card.Text>
+                                        <a style={{ whiteSpace: 'break-spaces' }}>
+                                            <a href="{values.project_link}">{values.project}</a>
+                                            {values.desc} Skills: <i id={styles.skills}>{values.skills}</i>
+                                        </a>
+                                    </Card.Text>
+                                </Card>
+                            </CardDeck>
+                        </div>
+                    ))}
+                </div>
+            </div>
         </div>
     );
 };

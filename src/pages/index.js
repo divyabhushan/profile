@@ -7,17 +7,18 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
 import Cards from "../components/Cards";
+import App from "../pages/App";
 
 const Home = () => {
   const context = useDocusaurusContext();
   const { siteConfig = {} } = context;
-  
+
   return (
-    <Layout title={`${siteConfig.title} | Personal Website`}>
+    <Layout title={`${ siteConfig.title } | Personal Website`}>
       <header className={styles.header}>
         <div className={styles.features}>
           <img
-            src="https://media-exp1.licdn.com/dms/image/C4D03AQHedoWkAeRaJw/profile-displayphoto-shrink_800_800/0/1607250393657?e=1636588800&v=beta&t=-l2MMCEmSaV6OeB_DEzsx3pHpUXhg2fUHfmXD-0V7ME"
+            src="https://media-exp1.licdn.com/dms/image/C4D03AQHedoWkAeRaJw/profile-displayphoto-shrink_400_400/0/1607250393657?e=1652918400&v=beta&t=Ai3J9dKms8hV8ey5NnH89Mfuxw0KNx2KsO7ISWd9wvM"
             alt="logo"
             style={{
               borderRadius: "100%",
@@ -29,7 +30,7 @@ const Home = () => {
         </div>
       </header>
       <div className={styles.header}><Cards /></div>
-    </Layout>
+    </Layout >
   );
 };
 
