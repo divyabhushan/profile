@@ -8,20 +8,20 @@ export const Exp = () => {
             "name": "Hasura",
             "link": "https://hasura.io",
             "title": "Technical Writer",
-            "desc": "API documentation to build efficient APIs over GraphqQL using Hasura."
+            "desc": "* API documentation to build efficient APIs over GraphqQL using Hasura.\n* Authored MS SQL Server tutorial for API developers.\n* Contributed in docs migration from Sphinx (*.rst) to Docusaurus (*.mdx, React) static site generator."
         },
         {
             "date": "Jul 2020 - Sep 2021",
             "name": "Lumel",
             "link": "https://lumel.com/",
             "title": "Technical Writer",
-            "desc": "\n* Product documentation on Lumel products.\n* ValQ  on-premise cloud service installation/user guide.\n* BIHub - Installation/Administration/User guide.\n* Inforiver - Product documentation."
+            "desc": "* Product documentation on Lumel products.\n* ValQ  on-premise cloud service installation/user guide.\n* BIHub - Installation/Administration/User guide.\n* Inforiver - Product documentation."
         },
         {
             "date": "Sep 2013 - Jun 2020",
             "name": "Freelancing",
             "title": "Technical Writer/Trainer",
-            "desc": "\n* Topic-based documentation on various products & technologies.\n* Trained corporate employees on various technological skills via blended means.\n* Plan and design bespoke training courses, structures, materials, durations, lab setups, hands-on lab activities, and quizzes.\n* Clients: Oracle, Happiest Minds, Wipro, SLK Software , L & T Infotech , Misys, HP, Schneider Electric, Oxford Engineering College, Nuware Systems Institute of Technology, B.G.S Institute of Technology, Apostrofhy, Sony, and Mindtree Ltd.\n",
+            "desc": "* Topic-based documentation on various products & technologies.\n* Trained corporate employees on various technological skills via blended means.\n* Plan and design bespoke training courses, structures, materials, durations, lab setups, hands-on lab activities, and quizzes.\n* Clients: Oracle, Happiest Minds, Wipro, SLK Software , L & T Infotech , Misys, HP, Schneider Electric, Oxford Engineering College, Nuware Systems Institute of Technology, B.G.S Institute of Technology, Apostrofhy, Sony, and Mindtree Ltd.\n",
             "skills": "Technical Documentation, DDLC, HTML5, CSS, Markdown, Visual Studio Code, Mermaid, Jekyll, mkDocs, Hugo, Vim, Git, DevOps, Docker, Kubernetes, process flow diagrams."
         },
         {
@@ -31,7 +31,7 @@ export const Exp = () => {
             "title": "Technical Specialist",
             "project": "SITA Airlines billing and invoicing",
             "project_link": "https://www.sita.aero/",
-            "desc": "\n* Scheduled and monitored automated tasks of file processing, log analysis, and daily cron jobs in Redwood Scheduler.\n* Process improvement, automated test cases ( pre and post ) using Shell/Perl scripts and embedded PL-SQL.\n* Performed Root Cause Analysis and troubleshooting of Production errors.\n* Linux server administrative tasks.\n* ER diagrams.\n* Billing process flow and resolution documentation."
+            "desc": "* Scheduled and monitored automated tasks of file processing, log analysis, and daily cron jobs in Redwood Scheduler.\n* Process improvement, automated test cases ( pre and post ) using Shell/Perl scripts and embedded PL-SQL.\n* Performed Root Cause Analysis and troubleshooting of Production errors.\n* Linux server administrative tasks.\n* Billing process flow and resolution documentation."
         },
         {
             "date": "Sep 2008 - Jan 2009",
@@ -40,7 +40,7 @@ export const Exp = () => {
             "title": "Linux/DB admin",
             "project": "HCI Official website Migration",
             "project_link": "https://www.hci.org/",
-            "desc": "\n* Configured new production server on Amazon EC2 cloud and deployed company’s official website’s content.\n* Adapted an Agile development approach staying in sync with the project progress tracked by daily SCRUM meetings.\n* Installed and configured LAMP web server on Amazon Linux.\n* MySQL database management and scheduled daily backups.\n* Linux server administration, and automation with shell scripts.\n",
+            "desc": "* Configured new production server on Amazon EC2 cloud and deployed company’s official website’s content.\n* Adapted an Agile development approach staying in sync with the project progress tracked by daily SCRUM meetings.\n* Installed and configured LAMP web server on Amazon Linux.\n* MySQL database management and scheduled daily backups.\n* Linux server administration and automation using shell scripts.\n",
             "skills": "Linux, Unix, Oracle Database, SQL/PL-SQL, Shell scripting, SCRUM, SDLC, Administrator guides, release notes/User guides."
         },
         {
@@ -50,7 +50,7 @@ export const Exp = () => {
             "link": "https://www.hcltech.com",
             "project": "ConfoNet: Computerization and Computer Networking of Consumer Forums in Country\n",
             "project_link": "https://confonet.nic.in/",
-            "desc": "* Administered Company\'s application migration in IBM DB2.\n* Linux Server maintenance & automation tasks.\n* Software documentation.\n",
+            "desc": "* Administered company\'s application migration in IBM DB2.\n* Linux server maintenance & automation tasks.\n* Product feature documentation.\n",
             "skills": "Linux, Unix, IBM DB2, SQL, Shell scripting, User manuals, how-to-guides."
         },
         {
@@ -74,7 +74,7 @@ export const Exp = () => {
             "date": "Sep 2013 - Jun 2020",
             "name": "Freelancing",
             "title": "Technical Writer/Corporate Trainer",
-            "desc": "\n* Technical topic-based documentation on various products and technologies.\n* Trained corporate employees on various technological skills via blended means.\n* Plan and design bespoke training courses, structures, materials, durations, lab setups, hands-on lab activities, and quizzes.\n* Clients: Oracle, Happiest Minds, Wipro, SLK Software , L & T Infotech , Misys, HP, Schneider Electric, Oxford Engineering College, Nuware Systems Institute of Technology, B.G.S Institute of Technology, Apostrofhy, Sony, and Mindtree Ltd.\n",
+            "desc": "\n* Technical topic-based documentation on various products and technologies.\n* Trained corporate employees on various technological skills via blended means.\n* Plan and design bespoke training courses, structures, materials, durations, lab setups, hands-on lab activities, and quizzes.\n* Clients: Oracle, Happiest Minds, Wipro, SLK Software , L&T Infotech , Misys, HP, Schneider Electric, Oxford Engineering College, Nuware Systems Institute of Technology, B.G.S Institute of Technology, Apostrofhy, Sony, and Mindtree Ltd.\n",
             "skills": "Technical Documentation, DDLC, HTML5, CSS, Markdown, Visual Studio Code, Mermaid, Jekyll, mkDocs, Hugo, Vim, Git, DevOps, Docker, Kubernetes, process flow diagrams."
         },
         {
@@ -83,7 +83,7 @@ export const Exp = () => {
             "title": "Technical Specialist",
             "project": "SITA Airlines billing and invoicing",
             "project_link": "https://www.sita.aero/",
-            "desc": "\n* ETL jobs management and scheduling in Redwood Scheduler/Linux server and deployment using Shell scripts.\n * Process improvement, automated test cases ( Pre-check and Post-check ) using Shell/Perl scripts and embedded PL-SQL.\n* Performed Root Cause Analysis and troubleshooting of Production errors.\n* Linux server administrative tasks.\n* ER diagrams.\n* Billing process flow and resolution documentation.\n* Scheduled and monitored automated tasks of file processing, log analysis, and daily cron jobs in Redwood Scheduler.\n* Mentoring the new joiners.\n",
+            "desc": "\n* ETL jobs management and scheduling in Redwood Scheduler/Linux server and deployment using Shell scripts.\n * Process improvement, automated test cases ( Pre-check and Post-check ) using Shell/Perl scripts and embedded PL-SQL.\n* Performed Root Cause Analysis and troubleshooting of production errors.\n* Linux server administrative tasks.\n* ER diagrams.\n* Billing process flow and resolution documentation.\n* Scheduled and monitored automated tasks of file processing, log analysis, and daily cron jobs in Redwood Scheduler.\n* Mentoring the new joiners.\n",
             "skills": "Linux, Unix, Oracle Database, SQL/PL-SQL, Shell scripting, Test cases, Software Documentation, Product guides, Agile, SDLC."
         },
         {

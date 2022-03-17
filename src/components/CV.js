@@ -9,7 +9,9 @@ import { Exp } from "./Exp.js";
 export const TITLE = "title";
 
 export const CV = (props) => {
-    const synopsis = "Strong IT background in Databases, Linux/Unix, Programming, and Version Control. Knowledge of Cloud, Virtualizations, Dockers, SDLC, DDLC, OOPS, HTML/CSS, JSX, MDX, and React.\n\nDevelop clear, modular, rich content to explain technology in simpler ways. Implement Agile methodology and software development practices to treat my docs-as-code and re-use it.\n\nExperienced Database Admin, Linux/Unix Admin, Programmer, and Technical Trainer in major IT companies.";
+    const synopsis = "Product (SaaS, Paas) documentation for Developers (API), internal users, and end users. Authored Git and MS SQL Server tutorials. \
+    \nStrong IT background in Databases, Linux/Unix, Programming, and Version Control.\ Knowledge of Cloud, Virtualizations, Dockers, SDLC, DDLC, OOPS, HTML/CSS, JSX, MDX, and React. \
+    \nImplement Agile methodology and software development practices to treat my docs-as-code and re-use it.";
 
     const experience = [
         {
@@ -50,7 +52,7 @@ export const CV = (props) => {
             "title": "Programmer",
             "project": "ConfoNet: Computerization and Computer Networking of Consumer Forums in Country\n",
             "project_link": "https://confonet.nic.in/",
-            "desc": "* Administered Company\'s application migration in IBM DB2 database.\n* ETL tasks in IBM DB2 for Confonet (Case Monitoring System) application.\n* Linux Server maintenance & automation tasks.\n* Software documentation.\n",
+            "desc": "* Administered company\'s application migration in IBM DB2 database.\n* ETL tasks in IBM DB2 for Confonet (Case Monitoring System) application.\n* Linux Server maintenance & automation tasks.\n* Software documentation.\n",
             "skills": "Linux, Unix, IBM DB2, SQL, Shell scripting, User manuals, how-to-guides."
         },
         {
@@ -67,12 +69,13 @@ export const CV = (props) => {
             <div className="row">
                 <div className="col">
                     <h1>Divya Bhushan</h1>
-                    <h3>Technical Writer@<a href="https://hasura.io">Hasura</a></h3>
+                    <h3>Technical Writer</h3>
                 </div>
                 <div class="col">
                     <p>Email: divya_bhushan@hotmail.com
                         <p>
-                            <p>Portfolio: <a href="https://divyabhushan.github.io/my-portfolio/">My Portfolio</a></p>
+                            <p>Portfolio: <a href="https://divyabhushan.github.io/profile">My Portfolio</a></p>
+                            <p>+91 9686448991</p>
                         </p>
                         <a id={styles.img} href="https://www.linkedin.com/in/divyabhushan/" target="_blank"><img width="30" src="https://github.com/divyabhushan/my-portfolio/blob/gh-pages/img/linkedin.png?raw=true"></img></a>
                         <a id={styles.img} href="https://github.com/divyabhushan" target="_blank"><img width="30" src="https://github.com/divyabhushan/my-portfolio/blob/gh-pages/img/github.png?raw=true"></img></a>
@@ -81,7 +84,7 @@ export const CV = (props) => {
                 </div>
             </div>
             <div className="row">
-                <div><br></br><br></br><br></br></div>
+                <div></div>
             </div>
             <section>
                 <div className="row" id={styles.nextrow}>

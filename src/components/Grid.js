@@ -1,5 +1,6 @@
 import React from "react";
 import useBaseUrl from "@docusaurus/useBaseUrl";
+import document from "@site/static/assets/divyabhushan_technical-writer.pdf"
 import Link from "@docusaurus/Link";
 import { Container, Row, Col } from "react-bootstrap";
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -16,7 +17,7 @@ export const Grid = (props) => {
                 <Col>
                     <p>{doc}</p><p>{method}</p><p>{benefit_method}</p>
                     <p>
-                        <a href={useBaseUrl('assets/TechnicalWriter-Hasura.pdf')} download>Download Resume <img width="20" src={useBaseUrl('img/download.svg')}></img></a>
+                        <a href={document} download>Download Resume <img width="20" src={useBaseUrl('img/download.svg')}></img></a>
                     </p>
                 </Col>
                 <Col><Skills /></Col>

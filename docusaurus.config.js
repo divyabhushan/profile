@@ -1,12 +1,12 @@
 module.exports = {
   title: "Divya Bhushan",
   tagline: "Technical Writer @ Hasura",
-  url: "https://github.com/divyabhushan/my-portfolio",
-  baseUrl: '/my-portfolio/',
+  url: "https://github.com/divyabhushan/profile",
+  baseUrl: '/profile/',
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
   organizationName: "divyabhushan", // Usually your GitHub org/user name.
-  projectName: "my-portfolio", // Usually your repo name.
+  projectName: "profile", // Usually your repo name.
   plugins: [ [ '@docusaurus/plugin-google-analytics', { id: 'my-portal' } ] ],
   themeConfig: {
     colorMode: {
