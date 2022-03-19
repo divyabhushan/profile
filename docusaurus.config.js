@@ -1,6 +1,6 @@
 module.exports = {
   title: "Divya Bhushan",
-  tagline: "Technical Writer @ Hasura",
+  tagline: "Technical Writer",
   url: "https://github.com/divyabhushan/profile",
   baseUrl: '/profile/',
   onBrokenLinks: "throw",

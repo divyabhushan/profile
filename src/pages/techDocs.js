@@ -52,7 +52,7 @@ const users = [
     title: "Countries List using Bootstrap Accordion",
     description: "This awesome page generates a list of collapsible components while looping through each data value using React JS.",
     preview: "img/countries-list.png",
-    website: "https://divyabhushan.github.io/my-portfolio/docs/countries",
+    website: "https://divyabhushan.github.io/profile/docs/countries",
     source: "https://divya-bhushan.medium.com/collapsible-list-with-bootstrap-accordion-29e457f4ac2a"
   }
 ];

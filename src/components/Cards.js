@@ -5,9 +5,9 @@ import { Card } from 'react-bootstrap';
 import { CardDeck } from 'react-bootstrap';
 
 const dataset = [
-  { link: 'docs/synopsis', title: 'About me', text: 'I am a self-motivated IT professional passionate about technology, with a can-do-attitude! Learning and writing about skills is what I enjoy.', },
-  { link: 'history', title: 'Professional Experience', text: 'Technical documentation on Hasura GraphQL APIs. Past experience - Database Admin, Linux/Unix Admin, Programmer, and Corporate Trainer in major IT companies.', },
-  { link: 'techDocs', title: 'Technical Documentation', text: 'Develop clear, modular, rich content to explain technology in simpler ways. SDLC & Agile methodology to treat my Docs as Code, help to version control and reuse my code.', },
+  { link: 'docs/synopsis', title: 'About me', text: 'I am a self-motivated professional, passionate about technology. I like to design, develop, and improvise all kinds of software documentation.', },
+  { link: 'history', title: 'Professional Experience', text: 'IT professional with 10+ years of experience working as a Technical Writer, Database Admin, Linux/Unix Admin, & Corporate Trainer.'},
+  { link: 'techDocs', title: 'Technical Documentation', text: 'Adapt DDLC & Agile methods to treat my Docs as Code, to version control, track issues, review/reuse code, and implement CI/CD.', },
 ];
 
 const Cards = () => (

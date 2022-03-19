@@ -2,14 +2,12 @@ import React from "react";
 import styles from "../pages/styles.module.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Skills } from "./Skills.js";
-import { Card, CardDeck, CardGroup } from 'react-bootstrap';
-import { history } from "../pages/history.js";
-import { Exp } from "./Exp.js";
+import { Exp } from './Exp.js';
 
 export const TITLE = "title";
 
 export const CV = (props) => {
-    const synopsis = "Product (SaaS, Paas) documentation for Developers (API), internal users, and end users. Authored Git and MS SQL Server tutorials. \
+    const synopsis = "Product (SaaS, Paas) documentation for Developers (API), internal users, and end-users. Authored Git and MS SQL Server tutorials. \
     \nStrong IT background in Databases, Linux/Unix, Programming, and Version Control.\ Knowledge of Cloud, Virtualizations, Dockers, SDLC, DDLC, OOPS, HTML/CSS, JSX, MDX, and React. \
     \nImplement Agile methodology and software development practices to treat my docs-as-code and re-use it.";
 
@@ -72,14 +70,13 @@ export const CV = (props) => {
                     <h3>Technical Writer</h3>
                 </div>
                 <div class="col">
-                    <p>Email: divya_bhushan@hotmail.com
-                        <p>
-                            <p>Portfolio: <a href="https://divyabhushan.github.io/profile">My Portfolio</a></p>
-                            <p>+91 9686448991</p>
-                        </p>
-                        <a id={styles.img} href="https://www.linkedin.com/in/divyabhushan/" target="_blank"><img width="30" src="https://github.com/divyabhushan/my-portfolio/blob/gh-pages/img/linkedin.png?raw=true"></img></a>
-                        <a id={styles.img} href="https://github.com/divyabhushan" target="_blank"><img width="30" src="https://github.com/divyabhushan/my-portfolio/blob/gh-pages/img/github.png?raw=true"></img></a>
-                        <a id={styles.img} href="https://divya-bhushan.medium.com/" target="_blank"><img width="30" src="https://github.com/divyabhushan/my-portfolio/blob/gh-pages/img/medium.png?raw=true"></img></a>
+                    <p>
+                        Email: divya_bhushan@hotmail.com <br></br>
+                        Contact: +91 9686448991 <br></br>
+                        Portfolio: <a href="https://divyabhushan.github.io/profile">My Portfolio</a> <br></br>
+                        <a id={styles.img} href="https://www.linkedin.com/in/divyabhushan/" target="_blank"><img width="30" src="https://github.com/divyabhushan/profile/blob/gh-pages/img/linkedin.png?raw=true"></img></a>
+                        <a id={styles.img} href="https://github.com/divyabhushan" target="_blank"><img width="30" src="https://github.com/divyabhushan/profile/blob/gh-pages/img/github.png?raw=true"></img></a>
+                        <a id={styles.img} href="https://divya-bhushan.medium.com/" target="_blank"><img width="30" src="https://github.com/divyabhushan/profile/blob/gh-pages/img/medium.png?raw=true"></img></a>
                     </p>
                 </div>
             </div>

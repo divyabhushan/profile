@@ -22,13 +22,13 @@ const Articles = () => {
       category: 'Docusaurus',
       topics: [
         {
-          title: "Restrict Web Crawling using `robots.txt` file.",
+          title: "Docusaurus can help you limit Web bot crawling on your website",
           description:
           "If using Docusaurus, place the `robots.txt` file in the static folder.",
           website: "https://divya-bhushan.medium.com/where-to-place-the-robots-txt-file-in-your-docusaurus-website-45d18e40e285",
         },
         {
-          title: "Facing Swizzle error while enabling Docusaurus2 Lunr Search?",
+          title: "How did I get Docusaurus2’s offline Lunr search to work?",
           description:
           "Run `npm install` before you swizzle update, build, and link the packages.",
           website: "https://divya-bhushan.medium.com/how-i-enabled-lunr-search-in-docusaurus-v2-0-0-alpha-69-a19e62adba98",
@@ -60,7 +60,7 @@ const Articles = () => {
         },
         {
           id: 3,
-          title: 'Fix Common Git mistakes',
+          title: 'What are the common Git mistakes and how to fix them?',
           description: 'Gear up your Source Code control by avoiding these common Git mistakes.',
           website: "https://www.edureka.co/blog/common-git-mistakes/",
         },
