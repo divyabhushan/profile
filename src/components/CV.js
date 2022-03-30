@@ -72,7 +72,6 @@ export const CV = (props) => {
                 <div class="col">
                     <p>
                         Email: divya_bhushan@hotmail.com <br></br>
-                        Contact: +91 9686448991 <br></br>
                         Portfolio: <a href="https://divyabhushan.github.io/profile">My Portfolio</a> <br></br>
                         <a id={styles.img} href="https://www.linkedin.com/in/divyabhushan/" target="_blank"><img width="30" src="https://github.com/divyabhushan/profile/blob/gh-pages/img/linkedin.png?raw=true"></img></a>
                         <a id={styles.img} href="https://github.com/divyabhushan" target="_blank"><img width="30" src="https://github.com/divyabhushan/profile/blob/gh-pages/img/github.png?raw=true"></img></a>

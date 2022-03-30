@@ -31,7 +31,7 @@ export const Exp = () => {
             "title": "Technical Specialist",
             "project": "SITA Airlines billing and invoicing",
             "project_link": "https://www.sita.aero/",
-            "desc": "* Scheduled and monitored automated tasks of file processing, log analysis, and daily cron jobs in Redwood Scheduler.\n* Process improvement, automated test cases ( pre and post ) using Shell/Perl scripts and embedded PL-SQL.\n* Performed Root Cause Analysis and troubleshooting of Production errors.\n* Performed administration tasks on Linux server.\n* Developed resolution document on the billing process flow."
+            "desc": "* Scheduled and monitored automated tasks of file processing, log analysis, and scheduling cron jobs in Redwood Scheduler.\n* Improved processes by automating test cases ( pre and post ) with the help of Shell/Perl scripts and embedded PL-SQL.\n* Performed Root Cause Analysis and fixed production errors.\n* Performed administration tasks on Linux server.\n* Developed resolution document on the billing process flow."
         },
         {
             "date": "Sep 2008 - Jan 2009",
@@ -40,7 +40,7 @@ export const Exp = () => {
             "title": "Linux/DB admin",
             "project": "HCI Official website Migration",
             "project_link": "https://www.hci.org/",
-            "desc": "* Configured new production server on Amazon EC2 cloud and deployed company’s official website’s content.\n* Participated in project SCRUM meetings for project updates and sprint planning.\n* Installed and configured LAMP web server on Amazon Linux.\n* Managed MySQL database and scheduled daily backups.\n* Administered Linux server and automated admin tasks using shell scripts.\n",
+            "desc": "* Configured new production server on Amazon EC2 cloud and deployed company’s official website’s content on EC2.\n* Participated in project SCRUM meetings for project updates and sprint planning.\n* Installed and configured LAMP web server on Amazon Linux.\n* Managed MySQL database and scheduled daily backups.\n* Administered Linux server and automated admin tasks using Shell scripts.\n",
             "skills": "Linux, Unix, Oracle Database, SQL/PL-SQL, Shell scripting, SCRUM, SDLC, Administrator guides, release notes/User guides."
         },
         {
@@ -50,7 +50,7 @@ export const Exp = () => {
             "link": "https://www.hcltech.com",
             "project": "ConfoNet: Computerization and Computer Networking of Consumer Forums in Country\n",
             "project_link": "https://confonet.nic.in/",
-            "desc": "* Administered company\'s application migration in IBM DB2.\n* Linux server maintenance & automation tasks.\n* Product feature documentation.\n",
+            "desc": "* Administered company\'s application migration in IBM DB2.\n* Performed Linux server maintenance & automation tasks.\n* Documented product features.\n",
             "skills": "Linux, Unix, IBM DB2, SQL, Shell scripting, User manuals, how-to-guides."
         },
         {

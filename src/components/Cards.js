@@ -7,7 +7,7 @@ import { CardDeck } from 'react-bootstrap';
 const dataset = [
   { link: 'docs/synopsis', title: 'About me', text: 'I am a self-motivated professional, passionate about technology. I like to design, develop, and improvise all kinds of software documentation.', },
   { link: 'history', title: 'Professional Experience', text: 'IT professional with 10+ years of experience working as a Technical Writer, Database Admin, Linux/Unix Admin, & Corporate Trainer.'},
-  { link: 'techDocs', title: 'Technical Documentation', text: 'Adapt DDLC & Agile methods to treat my Docs as Code, to version control, track issues, review/reuse code, and implement CI/CD.', },
+  { link: 'techDocs', title: 'Technical Documentation', text: 'Using DDLC, Agile methods, and treating Docs as code help to version control, track issues, review/reuse code, and implement CI/CD.', },
 ];
 
 const Cards = () => (

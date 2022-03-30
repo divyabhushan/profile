@@ -6,6 +6,7 @@ import styles from '../css/bootstrap.css';
 import { Exp } from '../../src/components/Exp.js';
 
 const TITLE = "Professional Experience Timeline";
+const careerPath = "Linux/DB Admin > Technical Specialist > Corporate Trainer > Technical Writer";
 
 export const history = () => {
     return (
@@ -13,6 +14,7 @@ export const history = () => {
             <div className="container margin-vert--lg">
                 <div className="text--center">
                     <h1>{TITLE}</h1>
+                    <p>{careerPath}</p>
                 </div>
                 <Exp />
             </div>
