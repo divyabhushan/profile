@@ -26,4 +26,4 @@ export const Grid = (props) => {
             </Row>
         </Container>
     );
-};
+};  

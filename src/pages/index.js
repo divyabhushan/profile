@@ -17,14 +17,6 @@ const Home = () => {
     <Layout title={`${ siteConfig.title } | Personal Website`}>
       <header className={styles.header}>
         <div className={styles.features}>
-          <img
-            src="https://media-exp1.licdn.com/dms/image/C4D03AQHedoWkAeRaJw/profile-displayphoto-shrink_400_400/0/1607250393657?e=1652918400&v=beta&t=Ai3J9dKms8hV8ey5NnH89Mfuxw0KNx2KsO7ISWd9wvM"
-            alt="logo"
-            style={{
-              borderRadius: "100%",
-              maxWidth: 120,
-            }}
-          />
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className={styles.tagline}>{siteConfig.tagline}</p>
         </div>

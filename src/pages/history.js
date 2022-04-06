@@ -6,7 +6,7 @@ import styles from '../css/bootstrap.css';
 import { Exp } from '../../src/components/Exp.js';
 
 const TITLE = "Professional Experience Timeline";
-const careerPath = "Linux/DB Admin > Technical Specialist > Corporate Trainer > Technical Writer";
+const careerPath = "Linux/DB Admin > Technical Specialist > Corporate Trainer > Senior Technical Writer";
 
 export const history = () => {
     return (

@@ -1,6 +1,6 @@
 module.exports = {
   title: "Divya Bhushan",
-  tagline: "Technical Writer",
+  tagline: "Senior Technical Writer",
   url: "https://github.com/divyabhushan/profile",
   baseUrl: '/profile/',
   onBrokenLinks: "throw",
@@ -40,9 +40,9 @@ module.exports = {
       Built with Docusaurus and powered by JSX and React!!!
       </p>
       <p style="float:right">
-      <a href="https://www.linkedin.com/in/divyabhushan/" target="_blank" style="padding-left:10px"/><img src="https://github.com/divyabhushan/my-portfolio/blob/gh-pages/img/linkedin.png?raw=true" width="40"/></a>
-      <a href="https://divya-bhushan.medium.com/" target="_blank" style="padding-left:10px"><img src="https://github.com/divyabhushan/my-portfolio/blob/gh-pages/img/medium.png?raw=true" width="40"></a>
-      <a href="https://github.com/divyabhushan"><img src="https://raw.githubusercontent.com/divyabhushan/my-portfolio/gh-pages/img/github.svg" width="40"></a>      
+      <a href="https://www.linkedin.com/in/divyabhushan/" target="_blank" style="padding-left:10px"/><img src="https://github.com/divyabhushan/profile/blob/gh-pages/img/linkedin.png?raw=true" width="40"/></a>
+      <a href="https://divya-bhushan.medium.com/" target="_blank" style="padding-left:10px"><img src="https://github.com/divyabhushan/profile/blob/gh-pages/img/medium.png?raw=true" width="40"></a>
+      <a href="https://github.com/divyabhushan"><img src="https://raw.githubusercontent.com/divyabhushan/profile/gh-pages/img/github.svg" width="40"></a>      
       <p>
       </div>
       `,

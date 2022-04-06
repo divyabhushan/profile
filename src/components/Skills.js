@@ -10,9 +10,9 @@ export const Skills = () => {
         { title: 'Software Methodology', name: 'SCRUM, Agile, DevOps, SDLC, DDLC, Engineering Principles and Practices' },
         { title: 'Virtualization', name: 'Oracle VM Box' },
         { title: 'Containerization', name: 'Dockers, Kubernetes basics' },
-        { title: 'Version Control', name: 'Git, GitHub, GitLab, BitBucket, Source Tree' },
-        { title: 'Static Site Generator', name: 'Docusaurus2, Jekyll, Hugo, mkDocs, gh-pages' },
-        { title: 'Tools/Editors', name: 'DITA (basics), HTML5, CSS, Markdown, Visual Studio Code, SQL Developer, Eclipse EE, Vim.' },
+        { title: 'Version Control', name: 'Git, GitHub, GitLab' },
+        { title: 'Static Site Generator', name: 'Docusaurus2, GitBook, gh-pages' },
+        { title: 'Tools/Editors', name: 'DITA (basics), HTML5, CSS, Markdown, Visual Studio Code, SQL Developer, Eclipse EE, Vim' },
     ];
 
     return (
