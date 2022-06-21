@@ -35,7 +35,7 @@ export const Exp = () => {
             "date": "Sep 2013 - Jun 2020",
             "name": "Freelancing",
             "title": "Technical Writer/Trainer",
-            "desc": "* Developed topic-based documentation and trained corporates on various products & technologies.\n* Clients: Oracle, Happiest Minds, Wipro, SLK Software, L & T Infotech, Misys, HP, Schneider Electric, Sony, Mindtree,\n Oxford Engineering College, Nuware Systems Institute of Technology, B.G.S Institute of Technology, and Apostrofhy.\n",
+            "desc": "* Developed topic-based documentation and trained corporates on different technologies.\n* Clients: Oracle, Happiest Minds, Wipro, SLK Software, L & T Infotech, Misys, HP, Schneider Electric, Sony, Mindtree, Oxford Engineering College, Nuware Systems Institute of Technology, B.G.S Institute of Technology, and Apostrofhy.\n",
             "skills": "Technical Documentation, DDLC, HTML5, CSS, Markdown, Visual Studio Code, Mermaid, Jekyll, mkDocs, Hugo, Vim, Git, DevOps, Docker, Kubernetes, process flow diagrams."
         },
         {
@@ -45,7 +45,7 @@ export const Exp = () => {
             "title": "Technical Specialist",
             "project": "SITA Airlines billing and invoicing",
             "project_link": "https://www.sita.aero/",
-            "desc": "* Scheduled and monitored automated tasks of file processing, log analysis, and scheduling cron jobs in Redwood Scheduler.\n* Improved processes by automating test cases with the help of Shell/Perl scripts and embedded PL-SQL.\n* Performed Root Cause Analysis and fixed production errors.\n* Performed administration tasks on Linux server.\n* Contributed to resolution document on the billing process flow."
+            "desc": "* Scheduled and monitored automated tasks of file processing, log analysis, and scheduling cron jobs in Redwood Scheduler.\n* Improved processes by automating test cases written in Bash Shell, Perl, and embedded PL-SQL.\n* Performed Root Cause Analysis and fixed production errors.\n* Performed administration tasks on Linux server.\n* Contributed to resolution document on the billing process flow."
         },
         {
             "date": "Sep 2008 - Jan 2009",
@@ -54,7 +54,7 @@ export const Exp = () => {
             "title": "Linux/DB admin",
             "project": "HCI Official website Migration",
             "project_link": "https://www.hci.org/",
-            "desc": "* Configured new production server on Amazon EC2 cloud and deployed company’s official website’s content on EC2.\n* Installed and configured LAMP web server on Amazon Linux.\n* Managed MySQL database and scheduled daily backups.\n* Administered Linux server and automated admin tasks using Shell scripts.\n",
+            "desc": "* Provisioned production server on Amazon EC2 and deployed official websites' content on it.\n* Installed and configured LAMP web server on Amazon Linux.\n* Managed MySQL database and scheduled daily backups.\n* Administered Linux server and automated admin tasks using Shell scripts.\n",
             "skills": "Linux, Unix, Oracle Database, SQL/PL-SQL, Shell scripting, SCRUM, SDLC, Administrator guides, release notes/User guides."
         },
         {
@@ -64,7 +64,7 @@ export const Exp = () => {
             "link": "https://www.hcltech.com",
             "project": "ConfoNet: Computerization and Computer Networking of Consumer Forums in Country\n",
             "project_link": "https://confonet.nic.in/",
-            "desc": "* Administered company\'s application migration in IBM DB2 and generated the admin guide.\n* Performed Linux server maintenance & automation tasks.",
+            "desc": "* Administered company\'s application migration in IBM DB2 and wrote admin guide.\n* Performed Linux server maintenance & automation tasks.",
             "skills": "Linux, Unix, IBM DB2, SQL, Shell scripting, User manuals, how-to-guides."
         },
         {
@@ -72,7 +72,7 @@ export const Exp = () => {
             "name": "Dell",
             "link": "www.dell.com",
             "title": "Technical Associate",
-            "desc": "* Resolved Hardware/Software issues and contributed technical articles for internal wiki knowledge pool.\n* Administered Employee database (CRUD operations) in Oracle.\n",
+            "desc": "* Resolved Hardware/Software issues and written technical articles for internal wiki.\n* Administered Employee database (CRUD operations) in Oracle.\n",
         }
     ];
 
