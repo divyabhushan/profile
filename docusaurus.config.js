@@ -2,7 +2,7 @@ module.exports = {
   title: "Divya Bhushan",
   tagline: "Senior Technical Writer",
   url: "https://divyabhushan.github.io",
-  baseUrl: '/',
+  baseUrl: '/profile/',
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
   organizationName: "divyabhushan", // Usually your GitHub org/user name.
