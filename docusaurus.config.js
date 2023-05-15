@@ -1,22 +1,17 @@
 module.exports = {
   title: "Divya Bhushan",
   tagline: "Senior Technical Writer",
-  url: "https://github.com/divyabhushan/profile",
-  baseUrl: '/profile/',
+  url: "https://divyabhushan.github.io",
+  baseUrl: '/',
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
   organizationName: "divyabhushan", // Usually your GitHub org/user name.
   projectName: "profile", // Usually your repo name.
-  plugins: [ [ '@docusaurus/plugin-google-analytics', { id: 'my-portal' } ] ],
+  deploymentBranch: 'gh-pages',
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
       disableSwitch: true,
-    },
-    googleAnalytics: {
-      trackingID: 'UA-139623144-1',
-      // Optional fields.
-      anonymizeIP: true, // Should IPs be anonymized?
     },
     navbar: {
       title: "Home",
