@@ -8,7 +8,7 @@ export const Exp = () => {
             "name": "Palo Alto Networks",
             "link": "https://www.paloaltonetworks.com",
             "title": "Senior Technical Writer (Prisma Cloud Computing)",
-            "desc": "Author Admin Guides/Release Notes for Prisma Cloud Compute(SaaS and On-prem).\nCloud Workload Protection (CWP) helps to discover, monitor, protect, and remediate your CI/CD workflow against Threat Protection, Vulnerabilities, and Compliances.\n"
+            "desc": "* Design and implement infrastructure architecture for documentation for a seamless and user-friendly documentation.\n* Author Admin Guides/Release Notes for Prisma Cloud Compute(SaaS and On-prem).\n* Collaborate with stakeholders including Engineers, Product Managers, and DevOps to improve current documentation.\n"
         },
         {
             "date": "Apr 2022 - May 2022",
@@ -22,14 +22,14 @@ export const Exp = () => {
             "name": "Hasura",
             "link": "https://hasura.io",
             "title": "Technical Writer",
-            "desc": "* API documentation to build efficient APIs over GraphqQL using Hasura.\n* Authored MS SQL Server tutorial for API developers.\n* Contributed to docs migration from Sphinx (*.rst) to Docusaurus (*.mdx, React) static site generator.\n* Continuously worked towards improving technical accuracy and consistency with feedback."
+            "desc": "* API documentation to build efficient APIs over GraphqQL using Hasura.\n* Authored MS SQL Server tutorial for API developers.\n* Contributed to docs migration from Sphinx (*.rst) to Docusaurus (*.mdx, React) static site generator."
         },
         {
             "date": "Jul 2020 - Sep 2021",
             "name": "Lumel",
             "link": "https://lumel.com/",
             "title": "Technical Writer",
-            "desc": "* Product documentation on Lumel products: ValQ, BIHub, and Inforiver.\n* Configured Docusaurus and migrated the product docs."
+            "desc": "* Authored Product documentation and implemented a style guide for writing consistent and high quality documentaton on various Lumel products.\n* Successfully executed the migration of documentation from a legacy platform to Docusaurus."
         },
         {
             "date": "Sep 2013 - Jun 2020",
@@ -70,7 +70,7 @@ export const Exp = () => {
         {
             "date": "Jun 2005 - Dec 2006",
             "name": "Dell",
-            "link": "www.dell.com",
+            "link": "https://www.dell.com",
             "title": "Technical Associate",
             "desc": "* Resolved Hardware/Software issues and wrote technical articles for internal wiki.\n* Administered Oracle database (CRUD operations)\n",
         }

@@ -5,9 +5,9 @@ import { Card } from 'react-bootstrap';
 import { CardDeck } from 'react-bootstrap';
 
 const dataset = [
-  { link: 'docs/synopsis', title: 'About me', text: 'Self-motivated techie, passionate about technology. I like to design, develop, and manage Product documentation. Docs process/tools automation.', },
-  { link: 'history', title: 'Professional Experience', text: '12+ years experience as Technical Writer, Database Admin, Linux/Unix Admin, Corporate Trainer, & a Programmar.'},
-  { link: 'techDocs', title: 'Technical Documentation', text: 'Using DDLC, Agile methods, and treating Docs as code help to version control, track issues, review/reuse code, and implement CI/CD.', },
+  { link: 'docs/synopsis', title: 'About me', text: 'Highly skilled Senior Technical Writer with extensive experience in Product Documentation on Cloud and core technologies.', },
+  { link: 'history', title: 'Professional Experience', text: '12+ years experience in Database/Linux administration, Programming, reverse engineering, and automation in an Agile environment.'},
+  { link: 'techDocs', title: 'Technical Documentation', text: 'Develop high-quality product documentation for technical audience. UI/UX improvements. Doc Infrastructure Architecture planning. Automate DDLC and GitHub pipelines.', },
 ];
 
 

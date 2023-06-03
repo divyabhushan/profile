@@ -5,14 +5,14 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 export const Skills = () => {
     const dataset = [
         { title: 'Programming', name: 'GraphQL, React, JSX, Java basics (OOP), Shell Scripting' },
-        { title: 'Operating System', name: 'Linux, Unix, Windows' },
-        { title: 'Database', name: 'Oracle, IBM DB2, MySQL, MS SQL Server' },
+        { title: 'Operating Systems', name: 'Linux, Unix, Windows' },
+        { title: 'Databases', name: 'Oracle, IBM DB2, MySQL, MS SQL Server' },
         { title: 'Software Methodology', name: 'SCRUM, Agile, DevOps, SDLC, DDLC, Engineering Principles and Practices' },
         { title: 'Virtualization', name: 'Oracle VM Box' },
         { title: 'Containerization', name: 'Dockers, Kubernetes basics' },
         { title: 'Version Control', name: 'Git, GitHub, GitLab' },
         { title: 'Static Site Generator', name: 'Docusaurus2, GitBook, gh-pages' },
-        { title: 'Tools/Editors', name: 'DITA (basics), HTML5, CSS, Markdown, Visual Studio Code, SQL Developer, Eclipse EE, Vim' },
+        { title: 'Tools/Products', name: 'Jira, DITA, HTML5, CSS, Markdown, Visual Studio Code, SQL Developer, Eclipse EE' },
     ];
 
     return (

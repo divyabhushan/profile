@@ -1,6 +1,6 @@
 module.exports = {
   title: "Divya Bhushan",
-  tagline: "Senior Technical Writer",
+  tagline: "Senior Technical Writer - Prisma Cloud Documentation",
   url: "https://divyabhushan.github.io",
   baseUrl: '/profile/',
   onBrokenLinks: "throw",

@@ -3,6 +3,7 @@ import styles from "../pages/styles.module.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Skills } from "./Skills.js";
 import { Exp } from './Exp.js';
+import DivyaImage from "@site/static/assets/cv-profile-photo.png";
 
 export const TITLE = "title";
 
@@ -25,6 +26,7 @@ export const CV = (props) => {
                         Email: divya_bhushan@hotmail.com <br></br>
                         Bachelor of Engineering<br></br>
                         <a href="https://divyabhushan.github.io/profile">My Portfolio</a> <br></br><br></br>
+                        <img src={DivyaImage} width="100"/><br></br>
                         <a href="https://www.linkedin.com/in/divyabhushan/" target="_blank">LinkedIn</a> | <a href="https://github.com/divyabhushan" target="_blank">GitHub</a> | <a href="https://divya-bhushan.medium.com/" target="_blank">Medium</a>
                     </p>
                 </div>

@@ -1,6 +1,6 @@
 import React from "react";
 import useBaseUrl from "@docusaurus/useBaseUrl";
-import document from "@site/static/assets/DivyaBhushan_TechnicalWriter.pdf"
+import document from "@site/static/assets/DivyaBhushan-Senior-TechnicalWriter.pdf"
 import Link from "@docusaurus/Link";
 import { Container, Row, Col } from "react-bootstrap";
 import 'bootstrap/dist/css/bootstrap.min.css';
