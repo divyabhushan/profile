@@ -16,9 +16,9 @@ export const CV = (props) => {
             <div className="row">
                 <div className="col">
                     <h1>Divya Bhushan</h1>
-                    <h3>Senior Technical Writer</h3>
+                    <h3>Lead Technical Writer</h3>
                     <p><b>Prisma Cloud Computing</b></p>
-                    <p>Product Docs, Installation/Admin/User guide, Release Notes</p>
+                    <p>Product Docs, Installation/Admin/User guide, Release Notes, Docs Workflow Automation</p>
                     <p>Cloud technologies and Cybersecurity concepts</p>
                 </div>
                 <div class="col">
