@@ -3,11 +3,18 @@ import styles from '../css/bootstrap.css';
 
 export const Exp = () => {
     const data = [
+	{
+	    "date": "July 2023 - Present",
+      	    "name": "Palo Alto Networks",
+            "link": "https://www.paloaltonetworks.com",
+            "title": "Lead Technical Writer - Prisma Cloud",
+            "desc": "* Infrastructure Architecture for product documentation.\n* Build high-quality user-centric product documentation.\n* Build and publish docs and improve docs toolchain through troubleshooting and automation."
+	},
         {
-            "date": "May 2022 - Present",
+            "date": "May 2022 - Jun 2022",
             "name": "Palo Alto Networks",
             "link": "https://www.paloaltonetworks.com",
-            "title": "Senior Technical Writer (Prisma Cloud Computing)",
+            "title": "Senior Technical Writer - Prisma Cloud Compute",
             "desc": "* Design and implement infrastructure architecture for documentation for a seamless and user-friendly documentation.\n* Author Admin Guides/Release Notes for Prisma Cloud Compute(SaaS and On-prem).\n* Collaborate with stakeholders including Engineers, Product Managers, and DevOps to improve current documentation.\n"
         },
         {
