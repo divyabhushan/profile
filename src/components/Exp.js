@@ -8,6 +8,7 @@ export const Exp = () => {
       	    "name": "Palo Alto Networks",
             "link": "https://www.paloaltonetworks.com",
             "title": "Lead Technical Writer - Prisma Cloud",
+            "desc": "* Infrastructure Architecture for product documentation.\n* Build high-quality user-centric product documentation.\n* Build and publish docs and improve docs toolchain through troubleshooting and automation."
 	},
         {
             "date": "May 2022 - Jun 2022",
