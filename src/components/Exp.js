@@ -8,14 +8,14 @@ export const Exp = () => {
       	    "name": "Palo Alto Networks",
             "link": "https://www.paloaltonetworks.com",
             "title": "Lead Technical Writer - Prisma Cloud",
-            "desc": "* Infrastructure Architecture for product documentation.\n* Build high-quality user-centric product documentation.\n* Build and publish docs and improve docs toolchain through troubleshooting and automation."
+            "desc": "* Research and document on how the product protects the entire workload from Code to Cloud (CBDR).\n* Own and document Vulnerability Management, Compliance, and Web Application and Security (WAAS) documentation.\n* Use the Swagger framework to define the structure of the API documentation.\n* Build and publish docs and improve docs toolchain through troubleshooting and automation."
 	},
         {
             "date": "May 2022 - Jun 2022",
             "name": "Palo Alto Networks",
             "link": "https://www.paloaltonetworks.com",
             "title": "Senior Technical Writer - Prisma Cloud Compute",
-            "desc": "* Design and implement infrastructure architecture for documentation for a seamless and user-friendly documentation.\n* Author Admin Guides/Release Notes for Prisma Cloud Compute(SaaS and On-prem).\n* Collaborate with stakeholders including Engineers, Product Managers, and DevOps to improve current documentation.\n"
+            "desc": "* Design and implement Infrastructure Architecture for documentation for a seamless and user-friendly documentation.\n* Author Admin Guides/Release Notes for Prisma Cloud Compute(SaaS and On-prem).\n* Collaborate with stakeholders including Engineers, Product Managers, and DevOps to improve current documentation.\n"
         },
         {
             "date": "Apr 2022 - May 2022",
