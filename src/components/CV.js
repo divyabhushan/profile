@@ -8,8 +8,7 @@ import DivyaImage from "@site/static/assets/cv-profile-photo.png";
 export const TITLE = "title";
 
 export const CV = (props) => {
-    const old_synopsis = "Cloud-based and on-premises documentation for Developers, DevOps, DevSecOps, internal users, and end-users.\ \ Authored Git and MS SQL Server tutorials.";
-    const synopsis = "Well-versed in Core and Cloud technologies. Participate in discussions around product improvements with Stakeholders. Reverse engineer, troubleshoot, and fix the broken CI/CD toolchain for content build and deploy process. Passionate about automating the Tool stack and processes."
+    const synopsis = "I have extensive experience in developing and executing documentation strategies, leading high-impact projects, and optimizing processes. My expertise includes collaborating with cross-functional teams to deliver clear and effective content. I am proficient in programming, databases, operating systems, and modern tools, with a strong understanding of cybersecurity, network security, and firewall management."
 
     return (
         <div className="container">
@@ -17,14 +16,14 @@ export const CV = (props) => {
                 <div className="col">
                     <h1>Divya Bhushan</h1>
                     <h3>Lead Technical Writer</h3>
-                    <p><b>Prisma Cloud - Cybersecurity</b></p>
+                    <p><b>AI-powered Firewalls in NetSec Software Firewalls</b></p>
                     <p>Product Docs, Installation/Admin/User guide, Release Notes, Docs Workflow Automation</p>
                     <p>Cloud technologies and Cybersecurity concepts</p>
                 </div>
                 <div class="col">
                     <p>
                         Email: divya_bhushan@hotmail.com <br></br>
-                        Bachelor of Engineering<br></br>
+                        B.E in Electrical & Electronics (2004)<br></br>
                         <a href="https://divyabhushan.github.io/profile">My Portfolio</a> <br></br><br></br>
                         <img src={DivyaImage} width="100"/><br></br>
                         <a href="https://www.linkedin.com/in/divyabhushan/" target="_blank">LinkedIn</a> | <a href="https://github.com/divyabhushan" target="_blank">GitHub</a> | <a href="https://divya-bhushan.medium.com/" target="_blank">Medium</a>

@@ -5,15 +5,16 @@ export const Exp = () => {
     const data = [
 	{
 	    "date": "July 2023 - Present",
-      	    "name": "Palo Alto Networks",
-            "link": "https://www.paloaltonetworks.com",
-            "title": "Lead Technical Writer - Prisma Cloud",
-            "desc": "* Research and document on how the product protects the entire workload from Code to Cloud (CBDR).\n* Own and document Vulnerability Management, Compliance, and Web Application and Security (WAAS) documentation.\n* Use the Swagger framework to define the structure of the API documentation.\n* Build and publish docs and improve docs toolchain through troubleshooting and automation."
+            "name": "Palo Alto Networks",
+            "link": "https://docs.paloaltonetworks.com/ai-runtime-security",
+            "project_link": "https://docs.paloaltonetworks.com/ai-runtime-security",
+            "title": "Lead Technical Writer - NetSec Software Firewalls",
+            "desc": "* Led documentation and infrastructure planning for AI runtime security, and developed a strategic roadmap.\n* Streamlined Technical Writers' prioritization and improved skills through targeted feedback and spot-checking.\n* Implemented and improved documentation processes, oversaw quality control, and managed tools and standards.\n* Use the Swagger framework to define the structure of the API documentation.\n* Build docs and maintain the GitLab toolchain for publishing pipeline through troubleshooting and automation."
 	},
         {
             "date": "May 2022 - Jun 2022",
             "name": "Palo Alto Networks",
-            "link": "https://www.paloaltonetworks.com",
+            "project_link": "https://docs.prismacloud.io/en",
             "title": "Senior Technical Writer - Prisma Cloud Compute",
             "desc": "* Design and implement Infrastructure Architecture for documentation for a seamless and user-friendly documentation.\n* Author Admin Guides/Release Notes for Prisma Cloud Compute(SaaS and On-prem).\n* Collaborate with stakeholders including Engineers, Product Managers, and DevOps to improve current documentation.\n"
         },

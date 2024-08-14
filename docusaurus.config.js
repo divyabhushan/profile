@@ -1,6 +1,6 @@
 module.exports = {
   title: "Divya Bhushan",
-  tagline: "Lead Technical Writer - Prisma Cloud Documentation",
+  tagline: "Lead Technical Writer - NetSec Software Firewalls Documentation",
   url: "https://divyabhushan.github.io",
   baseUrl: '/profile/',
   onBrokenLinks: "throw",

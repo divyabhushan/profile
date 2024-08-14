@@ -7,6 +7,13 @@ import GenerateImgURL from "./utils";
 const users = [
   // Please add in alphabetical order of title.
   {
+    title: "AI Runtime Security",
+    subtitle: "AI-powered Software Firewalls",
+    description: "Secure your cloud newtwork architecture by discovering assets, detecting mailicious network threats, and protecting your AI and non-AI workloads.",
+    preview: "img/ai-runtime-security.png",
+    website: "https://docs.paloaltonetworks.com/ai-runtime-security"
+  },
+  {
     title: "Hasura GraphQL Engine Documentation",
     subtitle: "",
     descriptions:"",

@@ -5,9 +5,8 @@ import { Card } from 'react-bootstrap';
 import { CardDeck } from 'react-bootstrap';
 
 const dataset = [
-  { link: 'docs/synopsis', title: 'About me', text: 'Passionate about learning technology and writing technical articles. Extensive Product Documentation knowledge on Cloud and core technologies.', },
-  { link: 'history', title: 'Professional Experience', text: '12+ years experience in Database/Linux administration, Programming, reverse engineering, and automation in an Agile environment.'},
-  { link: 'techDocs', title: 'Technical Documentation', text: 'Develop high-quality product documentation for technical audience. UI/UX improvements. Doc Infrastructure Architecture planning. Automate DDLC and GitHub pipelines.', },
+  { link: 'docs/synopsis', title: 'About me', text: 'I have extensive experience in developing and executing documentation strategies, leading high-impact projects, and optimizing processes. My expertise includes collaborating with cross-functional teams to deliver clear and effective content. I am proficient in programming, databases, operating systems, and modern tools, with a strong understanding of cybersecurity, network security, and firewall management.', },
+  { link: 'history', title: 'Professional Experience', text: 'With over 15 years in Database/Linux administration, programming, and automation within Agile environments, I have led documentation efforts for AI runtime security. I have streamlined workflows for Technical Writers, enhanced their skills, and implemented refined documentation processes. My role involved enforcing quality standards and effectively managing documentation tools and systems.'},
 ];
 
 
