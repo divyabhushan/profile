@@ -5,8 +5,8 @@ import { Card } from 'react-bootstrap';
 import { CardDeck } from 'react-bootstrap';
 
 const dataset = [
-  { link: 'docs/synopsis', title: 'About me', text: 'I have extensive experience in developing and executing documentation strategies, leading high-impact projects, and optimizing processes. My expertise includes collaborating with cross-functional teams to deliver clear and effective content. I am proficient in programming, databases, operating systems, and modern tools, with a strong understanding of cybersecurity, network security, and firewall management.', },
-  { link: 'history', title: 'Professional Experience', text: 'With over 15 years in Database/Linux administration, programming, and automation within Agile environments, I have led documentation efforts for AI runtime security. I have streamlined workflows for Technical Writers, enhanced their skills, and implemented refined documentation processes. My role involved enforcing quality standards and effectively managing documentation tools and systems.'},
+  { link: 'docs/synopsis', title: 'About me', text: 'Engineering-rooted-technical-writer: develop and execute documentation strategies, lead high-impact projects, and optimizing processes. My expertise includes collaborating with cross-functional teams to deliver clear and effective content. I am proficient in programming, databases, operating systems, and modern tools, with a strong understanding of cybersecurity, network security, and firewall management.', },
+  { link: 'history', title: 'Professional Experience', text: 'Over 18+ years of experience spanning Database/Linux administration, programming, and automation within Agile environments. Lead documentation efforts for AI Runtime Security (AI Firewall) network and API intercept. Streamline workflows for technical writers, enhance their skills, and implemente refined documentation processes. Enforce quality standards and effectively manage documentation tools and systems.'},
 ];
 
 

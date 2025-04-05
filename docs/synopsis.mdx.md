@@ -17,8 +17,5 @@ import { Grid } from "../src/components/Grid.js";
       src="http://ghchart.rshah.org/divyabhushan"
       alt="My GitHub contributions"
     />
-    <p>
-      <a href="https://github.com/divyabhushan">My Github contribution stats</a>
-    </p>
   </figure>
 </div>

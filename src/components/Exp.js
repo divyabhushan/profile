@@ -9,14 +9,14 @@ export const Exp = () => {
             "link": "https://docs.paloaltonetworks.com/ai-runtime-security",
             "project_link": "https://docs.paloaltonetworks.com/ai-runtime-security",
             "title": "Lead Technical Writer - NetSec Software Firewalls",
-            "desc": "* Led documentation and infrastructure planning for AI runtime security, and developed a strategic roadmap.\n* Streamlined Technical Writers' prioritization and improved skills through targeted feedback and spot-checking.\n* Implemented and improved documentation processes, oversaw quality control, and managed tools and standards.\n* Use the Swagger framework to define the structure of the API documentation.\n* Build docs and maintain the GitLab toolchain for publishing pipeline through troubleshooting and automation."
+            "desc": "* Discover, deploy, defend, and monitor AI and non AI cloud assets with the network intercept.\n* Secure your code through AI Runtime Security: API intercept (Scan APIs). \n* Documentation and infrastructure architecture (IA) planning for AI Runtime Security.\n* Streamline Technical Writers' prioritization and improve skills through targeted feedback and spot-checking.\n* Implemented and improved documentation processes, oversaw quality control, and managed tools and standards.\n* Build docs and maintain the GitLab toolchain for publishing pipeline through troubleshooting and automation."
 	},
         {
             "date": "May 2022 - Jun 2022",
             "name": "Palo Alto Networks",
             "project_link": "https://docs.prismacloud.io/en",
-            "title": "Senior Technical Writer - Prisma Cloud Compute",
-            "desc": "* Design and implement Infrastructure Architecture for documentation for a seamless and user-friendly documentation.\n* Author Admin Guides/Release Notes for Prisma Cloud Compute(SaaS and On-prem).\n* Collaborate with stakeholders including Engineers, Product Managers, and DevOps to improve current documentation.\n"
+            "title": "Senior Technical Writer - Cortex (Prisma Cloud)",
+            "desc": "* Cortex's Cloud Workload Protection (CWP) provides discovery and runtime protection for your cloud assets.\n* Design and implement IA planning for documentation for a seamless and user-friendly documentation.\n* Author Admin Guides/Release Notes for Prisma Cloud Compute(SaaS and On-prem).\n* Collaborate with product stakeholders to generate best-in-class documentation.\n"
         },
         {
             "date": "Apr 2022 - May 2022",
@@ -93,7 +93,7 @@ export const Exp = () => {
                             {data.map((each) => (
                                 <ul className="timeline">
                                     <li>
-                                        {each.title}@<a target="_blank" href={each.link}>{each.name}</a>
+                                        <b>{each.title}</b>@<a target="_blank" href={each.link}>{each.name}</a>
                                         <p class="float-right date">{each.date}</p>
                                         <p style={{ whiteSpace: 'break-spaces' }}>{each.desc}</p>
                                     </li>

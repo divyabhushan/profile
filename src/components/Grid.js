@@ -7,15 +7,15 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Skills } from "./Skills";
 
 export const Grid = (props) => {
-    const doc = 'My idea of documentation is an agile process that begins with understanding the end-user requirement and the product.';
-    const method = 'I focus on building continuous integration and deployment process to design, develop, version control, re-use, proof-read, build, deploy, deliver (publish), and maintain the docs.';
-    const benefit_method = 'A modular code and a CI/CD process help me manage the docs efficiently.';
+    const doc = 'I treat documentation as an integrated part of the product focusing on the user persona and the task. Document evolve with the product in an agile fashion following SDLC.';
+    const method = 'I focus on building continuous integration and publishing process to gather requirements, design, proof-read, version control, re-use, build, deliver (publish), maintain and keep the docs future-proof.';
+    //const benefit_method = 'A modular code and a CI/CD process help me manage the docs efficiently.';
 
     return (
         <Container fluid>
             <Row>
                 <Col>
-                    <p>{doc}</p><p>{method}</p><p>{benefit_method}</p>
+                    <p>{doc}</p><p>{method}</p>
                     <p>
                         <a href={document} download>Download Resume <img width="20" src={useBaseUrl('img/download.svg')}></img></a>
                     </p>

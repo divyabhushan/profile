@@ -1,6 +1,6 @@
 module.exports = {
   title: "Divya Bhushan",
-  tagline: "Lead Technical Writer - NetSec Software Firewalls Documentation",
+  tagline: "Lead Technical Writer - AI Runtime Security (AI Firewall)",
   url: "https://divyabhushan.github.io",
   baseUrl: '/profile/',
   onBrokenLinks: "throw",

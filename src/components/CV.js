@@ -16,8 +16,8 @@ export const CV = (props) => {
                 <div className="col">
                     <h1>Divya Bhushan</h1>
                     <h3>Lead Technical Writer</h3>
-                    <p><b>AI-powered Firewalls in NetSec Software Firewalls</b></p>
-                    <p>Product Docs, Installation/Admin/User guide, Release Notes, Docs Workflow Automation</p>
+                    <p><b>AI Runtime Security: Network and API intercept: AI-powered Firewall</b></p>
+                    <p>Product docs, API Reference docs, Installation/Admin/User guide, Release Notes, docs workflow automation</p>
                     <p>Cloud technologies and Cybersecurity concepts</p>
                 </div>
                 <div class="col">
