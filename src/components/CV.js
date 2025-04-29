@@ -8,17 +8,17 @@ import DivyaImage from "@site/static/assets/cv-profile-photo.png";
 export const TITLE = "title";
 
 export const CV = (props) => {
-    const synopsis = "I have extensive experience in developing and executing documentation strategies, leading high-impact projects, and optimizing processes. My expertise includes collaborating with cross-functional teams to deliver clear and effective content. I am proficient in programming, databases, operating systems, and modern tools, with a strong understanding of cybersecurity, network security, and firewall management."
-
+    const synopsis = "- Mentor writers, optimize content workflows, and drive technical quality standards.\n- Blend technical expertise with people leadership to enhance processes and align documentation with product and business goals.\n- Advocate for documentation needs, lead toolchain adoption, and foster a culture of continuous improvement."
+    
     return (
         <div className="container">
             <div className="row">
                 <div className="col">
-                    <h1>Divya Bhushan</h1>
-                    <h3>Lead Technical Writer</h3>
-                    <p><b>AI Runtime Security: Network and API intercept: AI-powered Firewall</b></p>
-                    <p>Product docs, API Reference docs, Installation/Admin/User guide, Release Notes, docs workflow automation</p>
-                    <p>Cloud technologies and Cybersecurity concepts</p>
+                    <h2>Divya Bhushan</h2>
+                    <h6>Lead Technical Writer</h6>
+                    <p><b>Cloud technologies, networking, and cybersecurity concepts</b></p>
+                    <p>AI Runtime Security (AI Firewall) Administrator Guide | REST APIs | SDK | CLI Documentation</p>
+                    <p style={{ whiteSpace: 'break-spaces' }}>{synopsis}</p>
                 </div>
                 <div class="col">
                     <p>
@@ -28,14 +28,6 @@ export const CV = (props) => {
                         <img src={DivyaImage} width="100"/><br></br>
                         <a href="https://www.linkedin.com/in/divyabhushan/" target="_blank">LinkedIn</a> | <a href="https://github.com/divyabhushan" target="_blank">GitHub</a> | <a href="https://divya-bhushan.medium.com/" target="_blank">Medium</a>
                     </p>
-                </div>
-            </div>
-            <div className="row" id={styles.nextrow}>
-                <div class="col col-md-auto">
-                <h4>Synopsis</h4>
-                <p style={{ whiteSpace: 'break-spaces' }}>
-                {synopsis}
-                </p>
                 </div>
             </div>
             <div className="row" id={styles.nextrow}>

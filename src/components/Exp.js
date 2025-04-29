@@ -9,14 +9,14 @@ export const Exp = () => {
             "link": "https://docs.paloaltonetworks.com/ai-runtime-security",
             "project_link": "https://docs.paloaltonetworks.com/ai-runtime-security",
             "title": "Lead Technical Writer - NetSec Software Firewalls",
-            "desc": "* Discover, deploy, defend, and monitor AI and non AI cloud assets with the network intercept.\n* Secure your code through AI Runtime Security: API intercept (Scan APIs). \n* Documentation and infrastructure architecture (IA) planning for AI Runtime Security.\n* Streamline Technical Writers' prioritization and improve skills through targeted feedback and spot-checking.\n* Implemented and improved documentation processes, oversaw quality control, and managed tools and standards.\n* Build docs and maintain the GitLab toolchain for publishing pipeline through troubleshooting and automation."
+            "desc": "* Lead documentation strategy and Infrastructure Architecture (IA) planning for AI Runtime Security.\n* Author content used in PoCs and customer demos to boost adoption and reduce support tickets.\n* Hire, manage, and mentor a team of writers; delegate tasks, provide feedback, and drive content quality through regular reviews.\n* Optimize the documentation toolchain (Docusaurus, GitLab, Markdown, DITA); create process guides, automate the CI/CD pipeline, and resolve tooling and publishing issues.\n* Represent the documentation team in leadership forums to secure resources and align priorities with product and engineering.\n* Cultivate a collaborative, growth-focused team environment that values ownership, empathy, and learning."
 	},
         {
             "date": "May 2022 - Jun 2022",
             "name": "Palo Alto Networks",
             "project_link": "https://docs.prismacloud.io/en",
             "title": "Senior Technical Writer - Cortex (Prisma Cloud)",
-            "desc": "* Cortex's Cloud Workload Protection (CWP) provides discovery and runtime protection for your cloud assets.\n* Design and implement IA planning for documentation for a seamless and user-friendly documentation.\n* Author Admin Guides/Release Notes for Prisma Cloud Compute(SaaS and On-prem).\n* Collaborate with product stakeholders to generate best-in-class documentation.\n"
+            "desc": "* Design and implement scalable, user-focused information architecture for Cortex Cloud documentation.\n* Author admin guides and release notes for Compute (SaaS and on-prem) modules.\n* Mentored junior writers through knowledge-sharing and tool walkthroughs.\n* Collaborate closely with product and engineering teams to deliver accurate, high-impact content.\n* Strengthen feedback loops by building strong working relationships across cross-functional teams."
         },
         {
             "date": "Apr 2022 - May 2022",
