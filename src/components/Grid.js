@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Skills } from "./Skills";
 
 export const Grid = (props) => {
-    const doc = 'I treat documentation as an integrated part of the product focusing on the user persona and the task. Document evolve with the product in an agile fashion following SDLC.';
+    const doc = 'Generate user-centric and task-based documentation. I use AI-first document approach to continously evlove the docs in sync with the product in an agile fashion following SDLC and DDLC principles.';
     const method = 'I focus on building continuous integration and publishing process to gather requirements, design, proof-read, version control, re-use, build, deliver (publish), maintain and keep the docs future-proof.';
     //const benefit_method = 'A modular code and a CI/CD process help me manage the docs efficiently.';
 

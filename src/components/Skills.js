@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 export const Skills = () => {
     const dataset = [
-        { title: 'Leadership and Process Management', name: 'Mentoring, performance inputs, project planning, risk assessment, work delegation, cross-functional collaboration, documentation workflow, and process improvements.' },
+        { title: 'Leadership and Process Management', name: 'Mentoring, performance inputs, project planning, risk assessment, work delegation, cross-functional collaboration, documentation, and process improvements.' },
         { title: 'Programming', name: 'GraphQL, React JS, Java basics (OOP), Shell Scripting, Python' },
         { title: 'Operating Systems', name: 'Linux, Unix, Windows' },
         { title: 'Databases', name: 'Oracle, IBM DB2, MySQL, MS SQL Server' },

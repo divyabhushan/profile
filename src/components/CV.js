@@ -16,15 +16,14 @@ export const CV = (props) => {
                 <div className="col">
                     <h2>Divya Bhushan</h2>
                     <h6>Lead Technical Writer</h6>
-                    <p><b>Cloud technologies, networking, and cybersecurity concepts</b></p>
-                    <p>AI Runtime Security (AI Firewall) Administrator Guide | REST APIs | SDK | CLI Documentation</p>
+                    <p><b>Cloud and AI security | networking | cybersecurity | </b><br></br>Use AI to optimize team's outcomes</p>
+                    <p>Prisma AIRS AI Runtime Security: Administrator Guide | REST APIs | SDK | CLI Documentation</p>
                     <p style={{ whiteSpace: 'break-spaces' }}>{synopsis}</p>
                 </div>
                 <div class="col">
                     <p>
-                        Email: divya_bhushan@hotmail.com <br></br>
                         B.E in Electrical & Electronics (2004)<br></br>
-                        <a href="https://divyabhushan.github.io/profile">My Portfolio</a> <br></br><br></br>
+                        <a href="https://divyabhushan.github.io/profile">My Portfolio</a> <br></br>
                         <img src={DivyaImage} width="100"/><br></br>
                         <a href="https://www.linkedin.com/in/divyabhushan/" target="_blank">LinkedIn</a> | <a href="https://github.com/divyabhushan" target="_blank">GitHub</a> | <a href="https://divya-bhushan.medium.com/" target="_blank">Medium</a>
                     </p>

@@ -1,6 +1,6 @@
 module.exports = {
   title: "Divya Bhushan",
-  tagline: "Lead Technical Writer - AI Runtime Security (AI Firewall)",
+  tagline: "Lead Technical Writer - Prisma AIRS AI Runtime Security (Network | REST APIs)",
   url: "https://divyabhushan.github.io",
   baseUrl: '/profile/',
   onBrokenLinks: "throw",
