@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_portfolio=self.webpackChunkmy_portfolio||[]).push([[612],{8153:(e,t,r)=>{r.r(t),r.d(t,{default:()=>o});var c=r(6540),l=r(6025);function o(e){let{imgURL:t}=e;const r=(0,l.A)(t);return c.createElement("img",{src:r,alt:"card-img"})}}}]);
