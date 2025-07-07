@@ -4,20 +4,12 @@ import styles from '../css/bootstrap.css';
 export const Exp = () => {
   const data = [
     {
-      date: 'July 2023 - Present',
+      date: 'May 2022 - Present',
       name: 'Palo Alto Networks',
       link: 'https://docs.paloaltonetworks.com/ai-runtime-security',
       project_link: 'https://docs.paloaltonetworks.com/ai-runtime-security',
       title: 'Lead Technical Writer - Prisma AIRS AI Runtime Security (Network | REST APIs)',
-      desc: '* Lead documentation strategy and Information Architecture (IA) planning for Prisma AIRS AI Runtime.\n* Author content used in PoCs and customer demos to boost adoption and reduce support tickets.\n* Hire, manage, and mentor a team of writers; delegate tasks, provide feedback, and drive content quality through regular reviews.\n* Optimize the documentation toolchain (Docusaurus, GitLab, Markdown, DITA); create process guides, automate the CI/CD pipeline, and resolve tooling and publishing issues.\n* Represent the documentation team in leadership forums to secure resources and align priorities with product and engineering.\n* Cultivate a collaborative, growth-focused team environment that values ownership, empathy, and learning.',
-    },
-    {
-      date: 'May 2022 - Jun 2022',
-      name: 'Palo Alto Networks',
-      link: 'https://www.paloaltonetworks.com/',
-      project_link: 'https://docs.prismacloud.io/en',
-      title: 'Senior Technical Writer - Cortex (Prisma Cloud)',
-      desc: '* Design and implement scalable, user-focused Information Architecture for Cortex cloud documentation.\n* Author admin guides and release notes for Compute (SaaS and on-prem) modules.\n* Mentored junior writers through knowledge-sharing and tool walkthroughs.\n* Collaborate closely with product and engineering teams to deliver accurate and high-impact content.\n* Strengthen feedback loops by building strong working relationships across cross-functional teams.',
+      desc: '* Lead documentation strategy and Information Architecture (IA) planning for Prisma AIRS AI Runtime.\n* Author content used in PoCs and customer demos to boost adoption and reduce support tickets.\n* Hire, manage, and mentor a team of writers; delegate tasks, provide feedback, and drive content quality through regular reviews.\n* Optimize the documentation toolchain (Docusaurus, GitLab, Markdown, DITA); create process guides, automate the CI/CD pipeline, and resolve tooling and publishing issues.\n* Represent the documentation team in leadership forums to secure resources and align priorities with product and engineering.\n* Cultivate a collaborative, growth-focused team environment that values ownership, empathy, and learning.\n* Collaborate closely with product teams to deliver accurate and high-impact content.\n* Strengthen feedback loops by building strong working relationships across cross-functional teams.\n **Products**: Prisma AIRS Security Platform, Cortex, and NetSec platform.',
     },
     {
       date: 'Apr 2022 - May 2022',

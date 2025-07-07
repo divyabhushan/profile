@@ -23,6 +23,8 @@ export const CV = (props) => {
                 <div class="col">
                     <p>
                         B.E in Electrical & Electronics (2004)<br></br>
+                        Phone: +91 9686448991<br></br>
+                        Email: divya_bhushan@hotmail.com<br></br>
                         <a href="https://divyabhushan.github.io/profile">My Portfolio</a> <br></br>
                         <img src={DivyaImage} width="100"/><br></br>
                         <a href="https://www.linkedin.com/in/divyabhushan/" target="_blank">LinkedIn</a> | <a href="https://github.com/divyabhushan" target="_blank">GitHub</a> | <a href="https://divya-bhushan.medium.com/" target="_blank">Medium</a>
