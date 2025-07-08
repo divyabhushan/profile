@@ -12,13 +12,6 @@ export const Exp = () => {
       desc: '* Lead documentation strategy and Information Architecture (IA) planning for Prisma AIRS AI Runtime.\n* Author content used in PoCs and customer demos to boost adoption and reduce support tickets.\n* Hire, manage, and mentor a team of writers; delegate tasks, provide feedback, and drive content quality through regular reviews.\n* Optimize the documentation toolchain (Docusaurus, GitLab, Markdown, DITA); create process guides, automate the CI/CD pipeline, and resolve tooling and publishing issues.\n* Represent the documentation team in leadership forums to secure resources and align priorities with product and engineering.\n* Cultivate a collaborative, growth-focused team environment that values ownership, empathy, and learning.\n* Collaborate closely with product teams to deliver accurate and high-impact content.\n* Strengthen feedback loops by building strong working relationships across cross-functional teams.\n **Products**: Prisma AIRS Security Platform, Cortex, and NetSec platform.',
     },
     {
-      date: 'Apr 2022 - May 2022',
-      name: 'Devtron',
-      link: 'https://devtron.ai',
-      title: 'Technical Writer',
-      desc: 'Product documentation for DevOps/Developers to help them adapt Devtron - a software delivery workflow for Kubernetes.',
-    },
-    {
       date: 'Oct 2021 - Apr 2022',
       name: 'Hasura',
       link: 'https://hasura.io',
